@@ -846,3 +846,668 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-09.40.08:679][355]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY_Auto2642C782140138CCF06CE96B624101F98.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/Autosaves/Game/1HungryCat/CITY_Auto2.umap'
 [2020.02.18-09.40.08:687][355]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/1HungryCat/CITY' took 2.511
 [2020.02.18-09.40.08:687][355]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.511
+[2020.02.18-10.18.20:432][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.18-10.18.20:468][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-10.18.20:493][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.18-10.18.22:866][567]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY3E5621CE410E8AF2862D0B86072B55C5.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap'
+[2020.02.18-10.18.22:922][567]LogFileHelpers: Saving map 'CITY' took 2.453
+[2020.02.18-10.18.44:866][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.18.46:853][977]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-10.18.46:867][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.18.46:867][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-10.18.46:867][977]PIE: New page: PIE session: CITY (18 févr. 2020 12:18:46)
+[2020.02.18-10.18.46:867][977]LogPlayLevel: Creating play world package: /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.18.46:874][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006553s)
+[2020.02.18-10.18.46:875][977]LogAIModule: Creating AISystem for world CITY
+[2020.02.18-10.18.46:875][977]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2020.02.18-10.18.46:875][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1HungryCat/CITY.CITY to /Game/1HungryCat/UEDPIE_0_CITY.CITY (0.008384s)
+[2020.02.18-10.18.46:907][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.02.18-10.18.46:985][977]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.18-10.18.47:020][977]LogInit: FAudioDevice initialized.
+[2020.02.18-10.18.47:030][977]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-10.18.47:032][977]LogWorld: Bringing World /Game/1HungryCat/UEDPIE_0_CITY.CITY up for play (max tick rate 0) at 2020.02.18-11.18.47
+[2020.02.18-10.18.47:032][977]LogWorld: Bringing up level for play took: 0.000933
+[2020.02.18-10.18.47:032][977]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.18-10.18.47:037][977]PIE: Play in editor start time for /Game/1HungryCat/UEDPIE_0_CITY -0,063
+[2020.02.18-10.18.47:043][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.19.28:331][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.19.28:334][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.19.28:334][839]LogWorld: BeginTearingDown for /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.19.28:335][839]LogWorld: UWorld::CleanupWorld for CITY, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.19.28:351][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-10.19.28:351][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.19.28:388][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.19.28:391][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.18-10.19.28:446][841]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.18-10.19.34:790][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.18-10.19.38:085][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.18-10.19.40:844][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.19.40:921][650]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-10.19.40:936][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.19.40:937][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-10.19.40:937][650]PIE: New page: PIE session: CITY (18 févr. 2020 12:19:40)
+[2020.02.18-10.19.40:937][650]LogPlayLevel: Creating play world package: /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.19.40:943][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007214s)
+[2020.02.18-10.19.40:944][650]LogAIModule: Creating AISystem for world CITY
+[2020.02.18-10.19.40:944][650]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2020.02.18-10.19.40:944][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1HungryCat/CITY.CITY to /Game/1HungryCat/UEDPIE_0_CITY.CITY (0.008501s)
+[2020.02.18-10.19.40:970][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.18-10.19.41:033][650]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.18-10.19.41:062][650]LogInit: FAudioDevice initialized.
+[2020.02.18-10.19.41:070][650]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-10.19.41:071][650]LogWorld: Bringing World /Game/1HungryCat/UEDPIE_0_CITY.CITY up for play (max tick rate 0) at 2020.02.18-11.19.41
+[2020.02.18-10.19.41:072][650]LogWorld: Bringing up level for play took: 0.000578
+[2020.02.18-10.19.41:072][650]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.18-10.19.41:076][650]PIE: Play in editor start time for /Game/1HungryCat/UEDPIE_0_CITY -0,026
+[2020.02.18-10.19.41:081][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.19.43:654][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.19.43:655][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.19.43:655][822]LogWorld: BeginTearingDown for /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.19.43:655][822]LogWorld: UWorld::CleanupWorld for CITY, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.19.43:671][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-10.19.43:671][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.19.43:709][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.19.43:711][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.18-10.19.43:762][826]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.18-10.20.00:400][919]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.02.18-10.20.00:431][919]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.18-10.20.00:784][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.18-10.20.00:802][919]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2020.02.18-10.20.00:924][919]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.18-10.20.07:537][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.20.16:791][492]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.02.18-10.20.16:808][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.18-10.20.16:833][492]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.18-10.20.22:086][693]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.02.18-10.20.22:109][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.18-10.20.22:606][693]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 121 classes and 0 folders.
+[2020.02.18-10.20.23:584][693]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.18-10.20.23:884][693]LogSlate: Took 0.002041 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.18-10.20.25:308][752]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2020.02.18-10.20.25:314][752]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2020.02.18-10.20.25:317][752]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.20.25:394][752]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.20.25:474][752]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.20.25:477][752]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.20.25:553][752]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.20.40:869][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.20.40:969][305]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-10.20.40:989][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.20.40:989][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-10.20.40:989][305]PIE: New page: PIE session: CITY (18 févr. 2020 12:20:40)
+[2020.02.18-10.20.40:989][305]LogPlayLevel: Creating play world package: /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.20.40:993][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004147s)
+[2020.02.18-10.20.40:994][305]LogAIModule: Creating AISystem for world CITY
+[2020.02.18-10.20.40:994][305]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2020.02.18-10.20.40:994][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1HungryCat/CITY.CITY to /Game/1HungryCat/UEDPIE_0_CITY.CITY (0.005440s)
+[2020.02.18-10.20.41:045][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.02.18-10.20.41:126][305]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.18-10.20.41:162][305]LogInit: FAudioDevice initialized.
+[2020.02.18-10.20.41:171][305]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-10.20.41:172][305]LogWorld: Bringing World /Game/1HungryCat/UEDPIE_0_CITY.CITY up for play (max tick rate 0) at 2020.02.18-11.20.41
+[2020.02.18-10.20.41:173][305]LogWorld: Bringing up level for play took: 0.000639
+[2020.02.18-10.20.41:173][305]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.02.18-10.20.41:176][305]PIE: Play in editor start time for /Game/1HungryCat/UEDPIE_0_CITY 0,076
+[2020.02.18-10.20.41:176][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.20.45:815][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.20.45:816][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.20.45:816][619]LogWorld: BeginTearingDown for /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.20.45:817][619]LogWorld: UWorld::CleanupWorld for CITY, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.20.45:831][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-10.20.45:831][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.20.45:876][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.20.45:881][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.02.18-10.20.45:933][621]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.18-10.20.48:475][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.18-10.20.55:716][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.21.12:200][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.21.12:701][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-10.21.12:740][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.18-10.21.12:905][418]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY0838AD8C4CD11E9F09CD1CB88D8FD272.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap'
+[2020.02.18-10.21.12:923][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY_BuiltData" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY_BuiltData.uasset" SILENT=true
+[2020.02.18-10.21.12:925][418]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY_BuiltData22EF4E1041AB9AA50F86B9A17E44A594.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY_BuiltData.uasset'
+[2020.02.18-10.21.19:591][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.21.19:649][860]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-10.21.19:665][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.21.19:665][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-10.21.19:665][860]PIE: New page: PIE session: CITY (18 févr. 2020 12:21:19)
+[2020.02.18-10.21.19:665][860]LogPlayLevel: Creating play world package: /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.21.19:669][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004373s)
+[2020.02.18-10.21.19:671][860]LogAIModule: Creating AISystem for world CITY
+[2020.02.18-10.21.19:672][860]LogPlayLevel: PIE: World Init took: (0.002438s)
+[2020.02.18-10.21.19:672][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1HungryCat/CITY.CITY to /Game/1HungryCat/UEDPIE_0_CITY.CITY (0.007060s)
+[2020.02.18-10.21.19:710][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.02.18-10.21.19:788][860]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.18-10.21.19:818][860]LogInit: FAudioDevice initialized.
+[2020.02.18-10.21.19:824][860]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-10.21.19:826][860]LogWorld: Bringing World /Game/1HungryCat/UEDPIE_0_CITY.CITY up for play (max tick rate 0) at 2020.02.18-11.21.19
+[2020.02.18-10.21.19:826][860]LogWorld: Bringing up level for play took: 0.000638
+[2020.02.18-10.21.19:826][860]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.02.18-10.21.19:829][860]PIE: Play in editor start time for /Game/1HungryCat/UEDPIE_0_CITY 0,728
+[2020.02.18-10.21.19:834][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.21.24:591][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.21.24:591][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.21.24:592][165]LogWorld: BeginTearingDown for /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.21.24:592][165]LogWorld: UWorld::CleanupWorld for CITY, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.21.24:608][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-10.21.24:608][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.21.24:656][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.21.24:660][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.02.18-10.21.24:716][167]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.18-10.22.14:943][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.22.17:718][283]Cmd: TRANSACTION UNDO
+[2020.02.18-10.22.17:718][283]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.23.07:127][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.24.43:064][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.25.00:503][ 56]Cmd: ACTOR BAKEPREPIVOT
+[2020.02.18-10.25.11:210][645]Cmd: ACTOR UNBAKEPREPIVOT
+[2020.02.18-10.25.21:988][232]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.25.28:508][580]Cmd: PIVOT HERE
+[2020.02.18-10.25.33:072][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.25.40:631][313]Cmd: TRANSACTION UNDO
+[2020.02.18-10.25.40:632][313]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-10.25.41:068][341]Cmd: TRANSACTION UNDO
+[2020.02.18-10.25.41:068][341]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-10.25.42:347][420]Cmd: TRANSACTION UNDO
+[2020.02.18-10.25.42:347][420]LogEditorTransaction: Undo Actor Movement
+[2020.02.18-10.25.42:699][438]Cmd: TRANSACTION UNDO
+[2020.02.18-10.25.42:699][438]LogEditorTransaction: Undo Select Surfaces
+[2020.02.18-10.25.43:082][459]Cmd: TRANSACTION UNDO
+[2020.02.18-10.25.43:082][459]LogEditorTransaction: Undo Clicking on Brush Vertex
+[2020.02.18-10.25.43:351][472]Cmd: TRANSACTION UNDO
+[2020.02.18-10.25.43:352][472]LogEditorTransaction: Undo Rotate Actors
+[2020.02.18-10.25.43:620][485]Cmd: TRANSACTION UNDO
+[2020.02.18-10.25.43:620][485]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.25.50:139][878]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.02.18-10.25.54:133][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.18-10.26.27:621][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.28.22:401][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.28.48:616][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.29.00:061][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.29.16:133][958]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.30.24:612][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.30.45:023][552]Cmd: TRANSACTION UNDO
+[2020.02.18-10.30.45:023][552]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.30.45:743][582]Cmd: TRANSACTION UNDO
+[2020.02.18-10.30.45:744][582]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.31.01:759][611]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.02.18-10.31.04:511][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.31.20:027][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.31.26:933][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.31.58:984][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.02.18-10.31.58:984][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/Autosaves/Game/1HungryCat/CITY_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.18-10.31.59:169][425]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY_Auto354EC78C247412903BC0C7385A4EE1EEE.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/Autosaves/Game/1HungryCat/CITY_Auto3.umap'
+[2020.02.18-10.31.59:173][425]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/1HungryCat/CITY' took 0.230
+[2020.02.18-10.31.59:173][425]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.230
+[2020.02.18-10.33.37:663][805]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.33.47:912][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.33.54:816][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.33.58:658][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.34.04:370][238]LogEditorViewport: Clicking Background
+[2020.02.18-10.34.11:080][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.34.21:133][227]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-10.34.35:061][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.34.38:353][245]Cmd: TRANSACTION UNDO
+[2020.02.18-10.34.38:353][245]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.34.54:841][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.35.01:362][604]Cmd: TRANSACTION UNDO
+[2020.02.18-10.35.01:362][604]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.35.40:727][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.36.53:136][448]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.37.04:416][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.38.34:993][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.39.05:994][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.41.59:648][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.02.18-10.41.59:648][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/Autosaves/Game/1HungryCat/CITY_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.18-10.42.02:193][ 54]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY_Auto4B1B73D5B44405A725718268514D80587.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/Autosaves/Game/1HungryCat/CITY_Auto4.umap'
+[2020.02.18-10.42.02:196][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/1HungryCat/CITY' took 2.614
+[2020.02.18-10.42.02:196][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.614
+[2020.02.18-10.43.07:466][250]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.43.47:750][764]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.44.10:137][536]Cmd: TRANSACTION UNDO
+[2020.02.18-10.44.10:137][536]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.44.10:482][554]Cmd: TRANSACTION UNDO
+[2020.02.18-10.44.10:482][554]LogEditorTransaction: Undo Move Actors
+[2020.02.18-10.44.11:012][583]Cmd: TRANSACTION UNDO
+[2020.02.18-10.44.11:012][583]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.45.43:370][150]Cmd: TRANSACTION UNDO
+[2020.02.18-10.45.43:371][150]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.45.43:696][161]Cmd: TRANSACTION UNDO
+[2020.02.18-10.45.43:696][161]LogEditorTransaction: Undo Set Scale
+[2020.02.18-10.46.00:447][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.46.10:943][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.46.13:192][897]Cmd: EDIT COPY
+[2020.02.18-10.46.13:433][911]Cmd: EDIT PASTE
+[2020.02.18-10.46.18:544][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.46.38:229][278]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.49.27:571][513]Cmd: EDIT COPY
+[2020.02.18-10.49.27:742][523]Cmd: EDIT PASTE
+[2020.02.18-10.49.45:896][144]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.50.09:401][424]Cmd: TRANSACTION UNDO
+[2020.02.18-10.50.09:401][424]LogEditorTransaction: Undo Move Actors
+[2020.02.18-10.50.30:488][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.50.31:386][720]Cmd: DELETE
+[2020.02.18-10.50.31:386][720]Cmd: ACTOR DELETE
+[2020.02.18-10.50.31:390][720]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-10.50.31:430][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.18-10.50.31:437][720]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.02.18-10.50.56:515][562]Cmd: TRANSACTION UNDO
+[2020.02.18-10.50.56:515][562]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-10.50.56:933][588]Cmd: TRANSACTION UNDO
+[2020.02.18-10.50.56:933][588]LogEditorTransaction: Undo Delete Actors
+[2020.02.18-10.50.59:155][787]Cmd: TRANSACTION UNDO
+[2020.02.18-10.50.59:155][787]LogEditorTransaction: Undo Move Actors
+[2020.02.18-10.51.01:661][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.51.59:449][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.52.09:259][538]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.52.10:545][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.02.18-10.52.10:564][633]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.52.10:574][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-10.52.10:612][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.02.18-10.52.10:809][633]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITYB5880E644F1CA81818207D9A8BCECC0F.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap'
+[2020.02.18-10.52.10:829][633]LogFileHelpers: Saving map 'CITY' took 0.255
+[2020.02.18-10.52.13:772][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.52.13:853][920]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-10.52.13:888][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.52.13:888][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-10.52.13:888][920]PIE: New page: PIE session: CITY (18 févr. 2020 12:52:13)
+[2020.02.18-10.52.13:888][920]LogPlayLevel: Creating play world package: /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.52.13:896][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007841s)
+[2020.02.18-10.52.13:897][920]LogAIModule: Creating AISystem for world CITY
+[2020.02.18-10.52.13:897][920]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2020.02.18-10.52.13:897][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1HungryCat/CITY.CITY to /Game/1HungryCat/UEDPIE_0_CITY.CITY (0.009313s)
+[2020.02.18-10.52.13:937][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.02.18-10.52.14:010][920]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.18-10.52.14:041][920]LogInit: FAudioDevice initialized.
+[2020.02.18-10.52.14:052][920]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.18-10.52.14:054][920]LogWorld: Bringing World /Game/1HungryCat/UEDPIE_0_CITY.CITY up for play (max tick rate 0) at 2020.02.18-11.52.14
+[2020.02.18-10.52.14:060][920]LogWorld: Bringing up level for play took: 0.007596
+[2020.02.18-10.52.14:061][920]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.02.18-10.52.14:068][920]PIE: Play in editor start time for /Game/1HungryCat/UEDPIE_0_CITY 0,967
+[2020.02.18-10.52.14:068][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.52.34:165][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.52.34:166][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.52.34:166][261]LogWorld: BeginTearingDown for /Game/1HungryCat/UEDPIE_0_CITY
+[2020.02.18-10.52.34:167][261]LogWorld: UWorld::CleanupWorld for CITY, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.34:176][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-10.52.34:177][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/1HungryCat/CITY.CITY:PersistentLevel' has LevelScriptBlueprint '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY' with GeneratedClass '/Game/1HungryCat/CITY.CITY_C' with ClassGeneratedBy '/Game/1HungryCat/CITY.CITY:PersistentLevel.CITY'
+[2020.02.18-10.52.34:221][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-10.52.34:225][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.02.18-10.52.34:265][263]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.18-10.52.36:572][518]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.18-10.52.36:582][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-10.52.36:621][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.02.18-10.52.36:812][518]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY3AA2265D4F47C27A1B6135A1F3A64131.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY.umap'
+[2020.02.18-10.52.36:829][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1HungryCat/CITY_BuiltData" FILE="F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY_BuiltData.uasset" SILENT=true
+[2020.02.18-10.52.36:874][518]LogSavePackage: Moving 'F:/Cours/_Project/HungryCat/Hungry_Cat/Saved/CITY_BuiltData9B8E2E0E49C3D3F57B4DA9BA85A2E3F1.tmp' to 'F:/Cours/_Project/HungryCat/Hungry_Cat/Content/1HungryCat/CITY_BuiltData.uasset'
+[2020.02.18-10.52.40:873][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.18-10.52.40:975][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.18-10.52.41:024][957]LogSlate: Window 'Hungry_Cat - Unreal Editor' being destroyed
+[2020.02.18-10.52.41:026][957]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.18-10.52.41:239][958]Cmd: QUIT_EDITOR
+[2020.02.18-10.52.41:902][958]LogExit: Preparing to exit.
+[2020.02.18-10.52.42:192][958]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:196][958]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:199][958]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:201][958]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:205][958]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:207][958]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:210][958]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:212][958]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:214][958]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:216][958]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:305][958]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.18-10.52.42:336][958]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-10.52.42:337][958]LogExit: Editor shut down
+[2020.02.18-10.52.42:339][958]LogExit: Transaction tracking system shut down
+[2020.02.18-10.52.42:985][958]LogExit: Object subsystem successfully closed.
+[2020.02.18-10.52.43:016][958]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.18-10.52.43:111][958]LogModuleManager: Shutting down and abandoning module BlueprintGraph (684)
+[2020.02.18-10.52.43:111][958]LogModuleManager: Shutting down and abandoning module PinnedCommandList (682)
+[2020.02.18-10.52.43:111][958]LogModuleManager: Shutting down and abandoning module SkeletonEditor (680)
+[2020.02.18-10.52.43:111][958]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (678)
+[2020.02.18-10.52.43:111][958]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2020.02.18-10.52.43:111][958]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2020.02.18-10.52.43:112][958]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (672)
+[2020.02.18-10.52.43:112][958]LogModuleManager: Shutting down and abandoning module NewLevelDialog (670)
+[2020.02.18-10.52.43:112][958]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.02.18-10.52.43:112][958]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.02.18-10.52.43:112][958]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.02.18-10.52.43:115][958]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.02.18-10.52.43:115][958]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.02.18-10.52.43:115][958]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.02.18-10.52.43:116][958]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.02.18-10.52.43:117][958]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.02.18-10.52.43:117][958]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.02.18-10.52.43:118][958]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.02.18-10.52.43:121][958]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.02.18-10.52.43:121][958]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.02.18-10.52.43:121][958]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.02.18-10.52.43:121][958]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.02.18-10.52.43:121][958]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.02.18-10.52.43:121][958]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.02.18-10.52.43:121][958]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.02.18-10.52.43:123][958]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.02.18-10.52.43:123][958]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.02.18-10.52.43:123][958]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.02.18-10.52.43:123][958]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.02.18-10.52.43:124][958]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.02.18-10.52.43:125][958]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.02.18-10.52.43:128][958]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.02.18-10.52.43:128][958]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.02.18-10.52.43:131][958]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.02.18-10.52.43:132][958]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.02.18-10.52.43:132][958]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.02.18-10.52.43:132][958]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.02.18-10.52.43:132][958]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.02.18-10.52.43:132][958]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.02.18-10.52.43:133][958]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.02.18-10.52.43:134][958]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.02.18-10.52.43:136][958]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.02.18-10.52.43:136][958]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.02.18-10.52.43:136][958]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.02.18-10.52.43:136][958]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.02.18-10.52.43:136][958]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.02.18-10.52.43:136][958]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.02.18-10.52.43:136][958]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.02.18-10.52.43:137][958]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.02.18-10.52.43:138][958]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.02.18-10.52.43:138][958]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.02.18-10.52.43:138][958]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.02.18-10.52.43:140][958]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.02.18-10.52.43:140][958]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.02.18-10.52.43:142][958]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.02.18-10.52.43:142][958]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.02.18-10.52.43:143][958]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.02.18-10.52.43:143][958]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.02.18-10.52.43:143][958]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.02.18-10.52.43:143][958]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.02.18-10.52.43:143][958]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.02.18-10.52.44:198][958]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.02.18-10.52.44:198][958]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.02.18-10.52.44:198][958]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.02.18-10.52.44:198][958]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.02.18-10.52.44:198][958]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.02.18-10.52.44:198][958]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.02.18-10.52.44:198][958]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.02.18-10.52.44:200][958]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.02.18-10.52.44:202][958]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.02.18-10.52.44:203][958]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.02.18-10.52.44:203][958]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.02.18-10.52.44:203][958]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.02.18-10.52.44:203][958]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.02.18-10.52.44:204][958]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.02.18-10.52.44:204][958]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.02.18-10.52.44:204][958]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.02.18-10.52.44:204][958]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.02.18-10.52.44:204][958]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.02.18-10.52.44:205][958]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.02.18-10.52.44:205][958]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.02.18-10.52.44:206][958]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.02.18-10.52.44:207][958]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.02.18-10.52.44:208][958]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.02.18-10.52.44:250][958]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.02.18-10.52.44:251][958]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.02.18-10.52.44:252][958]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.02.18-10.52.44:255][958]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.02.18-10.52.44:255][958]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.02.18-10.52.44:256][958]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.02.18-10.52.44:256][958]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.02.18-10.52.44:256][958]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.02.18-10.52.44:256][958]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.02.18-10.52.44:256][958]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.02.18-10.52.44:256][958]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.02.18-10.52.44:264][958]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.02.18-10.52.44:265][958]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.02.18-10.52.44:265][958]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.02.18-10.52.44:265][958]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.02.18-10.52.44:268][958]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.02.18-10.52.44:268][958]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.02.18-10.52.44:268][958]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.02.18-10.52.44:269][958]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.02.18-10.52.44:270][958]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.02.18-10.52.44:271][958]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.02.18-10.52.44:271][958]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.02.18-10.52.44:272][958]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.02.18-10.52.44:272][958]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.02.18-10.52.44:272][958]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.02.18-10.52.44:273][958]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.02.18-10.52.44:273][958]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.02.18-10.52.44:273][958]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.02.18-10.52.44:274][958]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.02.18-10.52.44:275][958]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.02.18-10.52.44:279][958]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.02.18-10.52.44:480][958]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.02.18-10.52.44:482][958]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.02.18-10.52.44:483][958]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.02.18-10.52.44:485][958]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.02.18-10.52.44:485][958]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.02.18-10.52.44:485][958]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.02.18-10.52.44:485][958]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.02.18-10.52.44:485][958]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.02.18-10.52.44:486][958]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.02.18-10.52.44:486][958]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.02.18-10.52.44:486][958]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.02.18-10.52.44:486][958]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.02.18-10.52.44:487][958]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.02.18-10.52.44:487][958]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.02.18-10.52.44:487][958]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.02.18-10.52.44:488][958]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.02.18-10.52.44:488][958]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.02.18-10.52.44:488][958]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.02.18-10.52.44:488][958]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.02.18-10.52.44:488][958]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.02.18-10.52.44:488][958]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.02.18-10.52.44:488][958]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.02.18-10.52.44:491][958]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.02.18-10.52.44:492][958]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.02.18-10.52.44:492][958]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.02.18-10.52.44:494][958]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.02.18-10.52.44:497][958]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.02.18-10.52.44:497][958]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.02.18-10.52.44:497][958]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.02.18-10.52.44:497][958]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.02.18-10.52.44:497][958]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.02.18-10.52.44:497][958]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.02.18-10.52.44:499][958]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.02.18-10.52.44:501][958]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.02.18-10.52.44:502][958]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.02.18-10.52.44:505][958]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.02.18-10.52.44:505][958]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.02.18-10.52.44:505][958]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.02.18-10.52.44:505][958]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.02.18-10.52.44:505][958]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.02.18-10.52.44:505][958]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.02.18-10.52.44:606][958]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.02.18-10.52.44:707][958]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.02.18-10.52.44:707][958]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.02.18-10.52.44:707][958]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.02.18-10.52.44:708][958]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.02.18-10.52.44:708][958]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.02.18-10.52.44:708][958]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.18-10.52.44:708][958]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.02.18-10.52.44:708][958]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.02.18-10.52.44:708][958]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.02.18-10.52.44:708][958]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.02.18-10.52.44:709][958]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.02.18-10.52.44:709][958]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.02.18-10.52.44:709][958]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.02.18-10.52.44:711][958]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.02.18-10.52.44:714][958]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.02.18-10.52.44:715][958]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.02.18-10.52.44:715][958]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.02.18-10.52.44:715][958]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.02.18-10.52.44:716][958]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.02.18-10.52.44:719][958]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.02.18-10.52.44:721][958]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.02.18-10.52.44:721][958]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.18-10.52.44:721][958]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.02.18-10.52.44:721][958]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.02.18-10.52.44:725][958]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.02.18-10.52.44:726][958]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.02.18-10.52.44:726][958]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.02.18-10.52.44:726][958]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.02.18-10.52.44:726][958]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.02.18-10.52.44:727][958]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.02.18-10.52.44:727][958]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.02.18-10.52.44:727][958]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.02.18-10.52.44:727][958]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.02.18-10.52.44:728][958]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.02.18-10.52.44:729][958]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.02.18-10.52.44:729][958]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.02.18-10.52.44:732][958]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.02.18-10.52.44:733][958]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.02.18-10.52.44:734][958]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.02.18-10.52.44:735][958]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.02.18-10.52.44:735][958]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.02.18-10.52.44:737][958]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.02.18-10.52.44:741][958]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.02.18-10.52.44:741][958]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.02.18-10.52.44:745][958]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.02.18-10.52.44:745][958]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.02.18-10.52.44:745][958]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.02.18-10.52.44:748][958]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.02.18-10.52.44:750][958]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.02.18-10.52.44:751][958]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.02.18-10.52.44:751][958]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.02.18-10.52.44:753][958]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.02.18-10.52.44:753][958]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.02.18-10.52.44:753][958]LogDerivedDataCache: Shutdown
+[2020.02.18-10.52.44:753][958]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.02.18-10.52.44:753][958]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.02.18-10.52.44:753][958]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.02.18-10.52.44:754][958]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.02.18-10.52.44:754][958]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.02.18-10.52.44:755][958]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.02.18-10.52.44:757][958]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.02.18-10.52.44:758][958]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.02.18-10.52.44:760][958]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.02.18-10.52.44:760][958]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.02.18-10.52.44:760][958]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.18-10.52.44:773][958]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.02.18-10.52.44:773][958]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.02.18-10.52.44:774][958]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.02.18-10.52.44:774][958]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.02.18-10.52.44:775][958]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.02.18-10.52.44:780][958]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.02.18-10.52.44:780][958]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.02.18-10.52.44:784][958]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.02.18-10.52.44:784][958]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.18-10.52.44:814][958]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.02.18-10.52.44:814][958]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.02.18-10.52.44:815][958]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.02.18-10.52.44:816][958]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.02.18-10.52.44:817][958]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.02.18-10.52.44:817][958]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.18-10.52.44:817][958]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.02.18-10.52.44:818][958]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.02.18-10.52.44:818][958]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.02.18-10.52.44:818][958]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.02.18-10.52.44:818][958]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.02.18-10.52.44:819][958]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.02.18-10.52.44:821][958]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.02.18-10.52.44:860][958]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.02.18-10.52.44:860][958]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.18-10.52.44:860][958]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60E38684-4573-7183-D786-50A1AEE25D91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=28618ab546ce9e850bb165baa184a4f9%7Cf1b7e77bef434870966fbf2d8a2e5602%7C7d139bad-888f-4ca7-a3b0-19243e7ada3e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.18-10.52.44:890][958]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.02.18-10.52.44:893][958]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.02.18-10.52.44:896][958]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.02.18-10.52.44:896][958]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.02.18-10.52.44:897][958]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.02.18-10.52.44:897][958]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.02.18-10.52.44:897][958]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.18-10.52.44:898][958]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.18-10.52.44:898][958]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.18-10.52.44:900][958]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.18-10.52.44:900][958]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.18-10.52.44:902][958]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.18-10.52.44:903][958]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.18-10.52.44:903][958]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.18-10.52.44:903][958]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.18-10.52.44:907][958]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.18-10.52.44:908][958]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.18-10.52.44:908][958]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.18-10.52.44:909][958]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.18-10.52.44:909][958]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.18-10.52.44:909][958]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.18-10.52.44:909][958]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.18-10.52.44:909][958]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.18-10.52.44:909][958]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.18-10.52.44:910][958]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.18-10.52.44:910][958]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.18-10.52.44:911][958]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.18-10.52.44:912][958]LogD3D11RHI: Shutdown
+[2020.02.18-10.52.44:914][958]LogD3D11RHI: CleanupD3DDevice
+[2020.02.18-10.52.44:917][958]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.18-10.52.44:917][958]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.18-10.52.44:917][958]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.18-10.52.45:106][958]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.18-10.52.45:114][958]LogExit: Exiting.
+[2020.02.18-10.52.45:127][958]Log file closed, 02/18/20 11:52:45
