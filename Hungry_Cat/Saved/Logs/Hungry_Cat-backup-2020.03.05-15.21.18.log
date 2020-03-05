@@ -1,0 +1,1310 @@
+﻿Log file open, 03/05/20 14:42:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Hungry_Cat
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.122210
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.05-13.42.52:260][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-13.42.52:260][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-13.42.52:260][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Engine.ini]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Engine.ini]
+[2020.03.05-13.42.52:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Engine.ini]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Engine.ini]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-13.42.52:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Engine.ini]
+[2020.03.05-13.42.52:261][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Engine.ini]
+[2020.03.05-13.42.52:264][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-13.42.52:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-13.42.52:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-13.42.52:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-13.42.52:267][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-13.42.52:267][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-13.42.52:267][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-13.42.52:267][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:267][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-13.42.52:267][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-13.42.52:267][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-13.42.52:267][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-13.42.52:273][  0]LogHAL: Display: Platform has ~ 8 GB [8451756032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-13.42.52:273][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-13.42.52:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-13.42.52:273][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-13.42.52:274][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-13.42.52:275][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-13.42.52:275][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.05-13.42.52:275][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Config/Windows/Engine.ini]
+[2020.03.05-13.42.52:275][  0]LogInit: Computer: DESKTOP-NEIDO8U
+[2020.03.05-13.42.52:275][  0]LogInit: User: julma
+[2020.03.05-13.42.52:275][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.05-13.42.52:275][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.05-13.42.52:276][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.03.05-13.42.52:276][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-13.42.52:276][  0]LogMemory: Process Physical Memory: 101.34 MB used, 101.34 MB peak
+[2020.03.05-13.42.52:276][  0]LogMemory: Process Virtual Memory: 112.00 MB used, 112.00 MB peak
+[2020.03.05-13.42.52:276][  0]LogMemory: Physical Memory: 5178.23 MB used,  2881.99 MB free, 8060.22 MB total
+[2020.03.05-13.42.52:276][  0]LogMemory: Virtual Memory: 4653.27 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.03.05-13.42.52:280][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.05-13.42.52:338][  0]LogInit: Using OS detected language (fr-FR).
+[2020.03.05-13.42.52:338][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.03.05-13.42.52:342][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.03.05-13.42.52:342][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.03.05-13.42.52:343][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.03.05-13.42.52:343][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.03.05-13.42.52:343][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.03.05-13.42.52:343][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.03.05-13.42.52:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.03.05-13.42.52:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.03.05-13.42.52:346][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-13.42.52:391][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-13.42.52:391][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-13.42.52:692][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-13.42.52:692][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-13.42.52:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.03.05-13.42.52:780][  0]LogD3D11RHI:       4021/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.05-13.42.52:804][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.05-13.42.52:804][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.05-13.42.52:808][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-13.42.52:808][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-13.42.52:808][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-13.42.52:858][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-13.42.52:858][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-13.42.52:858][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-13.42.52:859][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.05-13.42.52:859][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.05-13.42.52:860][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.05-13.42.52:860][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.05-13.42.52:860][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.03.05-13.42.52:860][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.05-13.42.52:860][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.05-13.42.52:860][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.03.05-13.42.52:915][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-13.42.52:928][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.05-13.42.53:366][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.05-13.42.53:379][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.05-13.42.53:394][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.05-13.42.53:409][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.05-13.42.53:423][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.05-13.42.53:435][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.05-13.42.53:447][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.05-13.42.53:460][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.05-13.42.53:467][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.05-13.42.53:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.05-13.42.53:511][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.05-13.42.53:535][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.05-13.42.53:535][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.05-13.42.53:554][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.05-13.42.53:554][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.05-13.42.53:563][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.05-13.42.53:572][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.05-13.42.53:580][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.05-13.42.53:591][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.05-13.42.53:621][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.05-13.42.53:621][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.05-13.42.53:621][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-13.42.53:635][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.05-13.42.53:720][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Intermediate/Shaders/WorkingDirectory/4872/).
+[2020.03.05-13.42.53:720][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/julma/AppData/Local/Temp/UnrealShaderWorkingDir/6FA94C3041B5C305AB7DF4AD6FDB1C9F/'.
+[2020.03.05-13.42.53:724][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.05-13.42.53:724][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.05-13.42.53:724][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.05-13.42.54:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-13.42.54:618][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/julma/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.05-13.42.54:618][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/julma/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.03.05-13.42.54:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-13.42.54:618][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-13.42.54:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-13.42.54:618][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-13.42.54:633][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-13.42.54:634][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-13.42.54:634][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-13.42.54:635][  0]LogDerivedDataCache: Using Local data cache path C:/Users/julma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-13.42.54:635][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-13.42.54:635][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-13.42.54:662][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-13.42.54:665][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-13.42.54:666][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-13.42.54:750][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.03.05-13.42.55:071][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-13.42.55:147][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-13.42.55:147][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.05-13.42.55:147][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-13.42.55:147][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.05-13.42.55:147][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.05-13.42.55:285][  0]LogNetVersion: Hungry_Cat 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1010878421)
+[2020.03.05-13.42.55:964][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.048753 seconds
+[2020.03.05-13.42.55:972][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.03.05-13.42.55:972][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.03.05-13.42.55:972][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-13.42.57:206][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-13.42.57:210][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-13.42.57:278][  0]SourceControl: Source control is disabled
+[2020.03.05-13.42.57:278][  0]SourceControl: Source control is disabled
+[2020.03.05-13.42.57:280][  0]SourceControl: Source control is disabled
+[2020.03.05-13.42.57:281][  0]SourceControl: Source control is disabled
+[2020.03.05-13.42.57:410][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-13.42.57:856][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-13.42.57:866][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.05-13.42.57:866][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.05-13.42.57:951][  0]LogEngine: Initializing Engine...
+[2020.03.05-13.42.57:952][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-13.42.57:953][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.05-13.42.58:255][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-13.42.58:279][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-13.42.58:427][  0]LogInit: XAudio2 using 'Headphones (EP640 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-13.42.58:455][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-13.42.58:455][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-13.42.58:554][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/julma/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.03.05-13.42.58:562][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-13.42.58:594][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-13.42.58:595][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.05-13.42.58:601][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.05-13.42.58:654][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-13.42.58:704][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-13.42.58:827][  0]LocalizationService: Localization service is disabled
+[2020.03.05-13.42.59:121][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/' took 0.01s
+[2020.03.05-13.42.59:121][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-13.42.59:121][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-13.42.59:379][  0]SourceControl: Source control is disabled
+[2020.03.05-13.42.59:380][  0]LightingResults: New page: Lighting Build
+[2020.03.05-13.42.59:384][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-13.42.59:385][  0]MapCheck: New page: Map Check
+[2020.03.05-13.42.59:385][  0]LightingResults: New page: Lighting Build
+[2020.03.05-13.42.59:417][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.05-13.42.59:505][  0]LogLinker: Warning: While loading '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:505][  0]LogLinker: Warning: While loading '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:520][  0]LogLinker: Warning: While loading '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:521][  0]LogLinker: Warning: While loading '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:523][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:523][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:523][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:523][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:573][  0]LogLinker: Warning: While loading '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:573][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.03.05-13.42.59:573][  0]LogLinker: Warning: While loading '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2020.03.05-13.42.59:573][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.03.05-13.42.59:642][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-13.42.59:742][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-13.42.59:771][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.03.05-13.42.59:772][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-13.42.59:772][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,168ms to complete.
+[2020.03.05-13.42.59:772][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.392
+[2020.03.05-13.42.59:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-13.42.59:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-13.42.59:889][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-13.42.59:898][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-13.42.59:908][  0]LogCollectionManager: Loaded 0 collections in 0.003162 seconds
+[2020.03.05-13.42.59:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Collections/' took 0.00s
+[2020.03.05-13.42.59:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/Developers/julma/Collections/' took 0.00s
+[2020.03.05-13.42.59:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/Collections/' took 0.00s
+[2020.03.05-13.42.59:917][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.03.05-13.42.59:926][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2863 classes and 680 folders.
+[2020.03.05-13.42.59:937][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-13.43.00:099][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.05-13.43.00:108][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.05-13.43.00:147][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-13.43.00:149][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-13.43.00:155][  0]LogSlate: Took 0.000944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-13.43.00:257][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-13.43.00:470][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.05-13.43.00:470][  0]LogLoad: (Engine Initialization) Total time: 11.98 seconds
+[2020.03.05-13.43.00:470][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-13.43.00:535][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.05-13.43.00:537][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.05-13.43.00:680][  0]LogSlate: Took 0.000995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-13.43.00:752][  1]LogAssetRegistry: Asset discovery search completed in 6.0031 seconds
+[2020.03.05-13.43.00:757][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.03.05-13.43.00:757][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2020.03.05-13.43.39:984][321]LogSlate: Window 'Message Log' being destroyed
+[2020.03.05-13.43.39:991][321]LogSlate: Window 'Message Log' being destroyed
+[2020.03.05-13.43.48:502][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.43.48:716][745]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-13.43.48:729][745]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP
+[2020.03.05-13.43.48:795][745]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.03.05-13.43.49:097][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.05-13.43.49:113][745]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.05-13.43.49:456][745]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2020.03.05-13.43.51:408][745]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.05-13.43.52:256][745]LogSlate: Took 0.001614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.05-13.43.56:743][ 14]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS.Calico_Cat_Idle_MovingBS
+[2020.03.05-13.43.56:767][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.05-13.43.56:796][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.05-13.43.57:677][ 14]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.05-13.44.00:498][201]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7FA9BF21-4AE4-4A39-0D6B-88AF535939C6}
+[2020.03.05-13.44.13:703][945]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{0b7b2d21-35e1-4d86-b17a-68322aec75cb} was removed. Shutting down audio device.
+[2020.03.05-13.44.13:703][945]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32B55DF7-4C72-3E79-5CCD-87970310D0CD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=1ef823f94141c0c0905930afe79baa00%7Cb89d96598ec94b46baf97f509606215e%7Cfdb99546-394c-4d04-8071-b7c0a8251eb0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x24a4fb7ff70 [can pipeline])
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.133.205) port 443 (#0))
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: 0000024AA9868F40: libcurl info message cache 7 (Closing connection 0)
+[2020.03.05-13.51.16:407][254]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32B55DF7-4C72-3E79-5CCD-87970310D0CD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=1ef823f94141c0c0905930afe79baa00%7Cb89d96598ec94b46baf97f509606215e%7Cfdb99546-394c-4d04-8071-b7c0a8251eb0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.05-13.52.19:588][436]LogInit: XAudio2 using 'Headphones (EP640 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.05-13.52.57:186][548]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F94BCD72-4B60-D506-7516-BA88C4A0C3B0}
+[2020.03.05-13.54.58:341][878]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.03.05-13.55.23:567][ 70]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D.Calico_Cat_Idle_MovingBS1D
+[2020.03.05-13.55.57:088][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.03.05-13.55.57:089][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2020.03.05-13.55.57:090][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS] ([1] browsable assets)...
+[2020.03.05-13.55.57:126][ 72]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS.Calico_Cat_Idle_MovingBS]
+[2020.03.05-13.55.57:126][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS]
+[2020.03.05-13.55.57:150][ 72]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_Idle_MovingBS_Auto1E67822514EC22FF57A57EFB169547094.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Autosaves/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS_Auto1.uasset'
+[2020.03.05-13.55.57:153][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D] ([1] browsable assets)...
+[2020.03.05-13.55.57:185][ 72]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D.Calico_Cat_Idle_MovingBS1D]
+[2020.03.05-13.55.57:185][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D]
+[2020.03.05-13.55.57:199][ 72]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_Idle_MovingBS1D_Auto171CC89194FEC1165E7C5E7964934F165.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Autosaves/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D_Auto1.uasset'
+[2020.03.05-13.55.57:201][ 72]LogFileHelpers: Auto-saving content packages took 0.111
+[2020.03.05-13.56.58:983][ 42]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Cat/Calico_Cat_Anim_Armature_Armature_Armature_WalkSlow_Armature_WalkSlow.Calico_Cat_Anim_Armature_Armature_Armature_WalkSlow_Armature_WalkSlow
+[2020.03.05-13.56.58:984][ 42]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Cat/Calico_Cat_Anim_Armature_Armature_Armature_WalkSlow_Armature_WalkSlow.Calico_Cat_Anim_Armature_Armature_Armature_WalkSlow_Armature_WalkSlow) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.05-13.57.05:929][446]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Cat/Calico_Cat_Anim_Armature_Armature_Armature_Walk_Armature_Walk.Calico_Cat_Anim_Armature_Armature_Armature_Walk_Armature_Walk
+[2020.03.05-13.57.05:929][446]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Cat/Calico_Cat_Anim_Armature_Armature_Armature_Walk_Armature_Walk.Calico_Cat_Anim_Armature_Armature_Armature_Walk_Armature_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.05-13.57.16:229][ 44]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Cat/Calico_Cat_Anim_Armature_Armature_Armature_Run_Armature_Run.Calico_Cat_Anim_Armature_Armature_Armature_Run_Armature_Run
+[2020.03.05-13.57.16:229][ 44]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Cat/Calico_Cat_Anim_Armature_Armature_Armature_Run_Armature_Run.Calico_Cat_Anim_Armature_Armature_Armature_Run_Armature_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.05-13.57.58:771][626]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_Idle_MovingBS1D192A901B4333EE7DF3CF7CAF1B8E046C.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D.uasset'
+[2020.03.05-13.58.55:899][134]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Cat/Calico_Cat.Calico_Cat
+[2020.03.05-13.58.55:917][134]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.05-13.58.55:953][134]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.05-13.58.56:233][134]LogSlate: Took 0.001145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.05-13.58.56:384][135]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-13.58.59:115][295]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/ThirdPersonBP/Cat/Calico_Cat_PhysicsAsset.Calico_Cat_PhysicsAsset
+[2020.03.05-13.58.59:145][295]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2020.03.05-13.58.59:169][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.03.05-13.59.46:323][955]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-13.59.48:909][112]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-13.59.59:927][704]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Cat/Calico_Cat_Anim_Armature_Armature_Armature_WalkSlow_Armature_WalkSlow.Calico_Cat_Anim_Armature_Armature_Armature_WalkSlow_Armature_WalkSlow
+[2020.03.05-14.00.40:316][107]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.00.40:366][107]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.00.40:477][107]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.00.42:796][273]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP89386A854AC31D6E6618B28AE6E3ED2E.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.00.43:539][318]BlueprintLog: New page: Compile Calico_Cat_AnimBP
+[2020.03.05-14.00.43:919][318]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.03.05-14.00.44:719][374]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP2341F14440C85CE517C4759425670080.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.01.30:184][686]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Cat/Cat_BP.Cat_BP
+[2020.03.05-14.02.24:710][ 39]BlueprintLog: New page: Compile Cat_BP
+[2020.03.05-14.02.25:056][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.03.05-14.02.25:867][ 99]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Cat_BP7177525B470318A023D1EA96FC94A252.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Cat_BP.uasset'
+[2020.03.05-14.02.29:945][392]BlueprintLog: New page: Compile Calico_Cat_AnimBP
+[2020.03.05-14.02.30:216][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.03.05-14.02.48:146][829]BlueprintLog: New page: Compile Cat_BP
+[2020.03.05-14.02.48:442][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.03.05-14.02.49:210][884]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Cat_BP36A4FBE14E8464A4ADE707BFC7706632.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Cat_BP.uasset'
+[2020.03.05-14.03.41:082][319]BlueprintLog: New page: Compile Calico_Cat_AnimBP
+[2020.03.05-14.03.41:098][319]LogBlueprint: Error: [Compiler Calico_Cat_AnimBP] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2020.03.05-14.03.41:099][319]LogBlueprint: Error: [Compiler Calico_Cat_AnimBP] Variable node  Get MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.03.05-14.03.41:374][319]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.03.05-14.04.22:986][472]LogSlate: Took 0.001033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.05-14.04.31:682][ 83]BlueprintLog: New page: Compile Calico_Cat_AnimBP
+[2020.03.05-14.04.31:975][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.03.05-14.04.32:934][145]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBPF78BBCB1450012E3EE3751BF72371E71.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.06.26:235][709]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.03.05-14.06.26:529][709]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/ThirdPersonExampleMap_Auto2BB569923405A4932F187E39088B43EB1.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.03.05-14.06.26:532][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.367
+[2020.03.05-14.06.26:532][709]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.367
+[2020.03.05-14.06.26:535][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP] ([1] browsable assets)...
+[2020.03.05-14.06.26:567][709]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP]
+[2020.03.05-14.06.26:567][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP]
+[2020.03.05-14.06.26:598][709]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP_Auto2C0676C0346A45251433C10AF5B61BD28.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Autosaves/Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP_Auto2.uasset'
+[2020.03.05-14.06.26:602][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D] ([1] browsable assets)...
+[2020.03.05-14.06.26:632][709]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D.Calico_Cat_Idle_MovingBS1D]
+[2020.03.05-14.06.26:632][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D]
+[2020.03.05-14.06.26:654][709]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_Idle_MovingBS1D_Auto2F277C2FB46BDFAC65C7FC7B0EC4A5D7C.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Autosaves/Game/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D_Auto2.uasset'
+[2020.03.05-14.06.26:656][709]LogFileHelpers: Auto-saving content packages took 0.122
+[2020.03.05-14.07.15:975][465]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBPDCC813A7488D7000027E3EB9DD39A552.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.13.09:876][396]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP151CC97A4B0C09C697CE6992911FA98F.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.13.10:761][443]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBPC14159B44775BC0F8945DCA26E59B2EE.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.13.12:214][524]BlueprintLog: New page: Compile Calico_Cat_AnimBP
+[2020.03.05-14.13.12:230][524]LogBlueprint: Warning: [Compiler Calico_Cat_AnimBP] Node  Blendspace Player 'Calico_Cat_Idle_MovingBS1D'  uses potentially thread-unsafe call  Get Player Pawn . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Cat_BP_7.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Cat_BP_7.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Cat_BP_7.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Cat_BP_7.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:460][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_1:PersistentLevel.Cat_BP_C_2.CharacterMesh0.Calico_Cat_AnimBP_C_3
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_1:PersistentLevel.Cat_BP_C_2.CharacterMesh0.Calico_Cat_AnimBP_C_3
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_1:PersistentLevel.Cat_BP_C_2.CharacterMesh0.Calico_Cat_AnimBP_C_3
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:461][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_1:PersistentLevel.Cat_BP_C_2.CharacterMesh0.Calico_Cat_AnimBP_C_3
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:504][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.03.05-14.13.12:513][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:514][524]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:534][525]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:534][525]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:650][526]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:650][526]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:652][526]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:652][526]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:665][527]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:665][527]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:666][527]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:666][527]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:683][528]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:683][528]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:684][528]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_15:PersistentLevel.Cat_BP_C_0.CharacterMesh0.Calico_Cat_AnimBP_C_4
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:699][529]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.12:699][529]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.13.12:716][530]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_5
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.13.13:919][598]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP6D274BFF4914D20D422C3C9FD25BB3A8.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.16.46:330][753]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.03.05-14.16.46:331][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.053
+[2020.03.05-14.16.46:333][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP] ([1] browsable assets)...
+[2020.03.05-14.16.46:369][753]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP]
+[2020.03.05-14.16.46:369][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP]
+[2020.03.05-14.16.46:398][753]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP_Auto37501315241623706F6E30DB0CF00EFBA.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Autosaves/Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP_Auto3.uasset'
+[2020.03.05-14.16.46:400][753]LogFileHelpers: Auto-saving content packages took 0.067
+[2020.03.05-14.17.41:183][214]BlueprintLog: New page: Compile Calico_Cat_AnimBP
+[2020.03.05-14.17.41:190][214]LogBlueprint: Warning: [Compiler Calico_Cat_AnimBP] Node  Blendspace Player 'Calico_Cat_Idle_MovingBS1D'  uses potentially thread-unsafe call  Get Player Pawn . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2020.03.05-14.17.41:411][214]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:411][214]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:412][214]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:412][214]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:412][214]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:412][214]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:412][214]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:412][214]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:457][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.03.05-14.17.41:598][216]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:598][216]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:645][217]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:645][217]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:661][218]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:661][218]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:678][219]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.41:678][219]LogScript: Warning: Accessed None
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:00A3
+[2020.03.05-14.17.41:695][220]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCat_BP
+	Calico_Cat_AnimBP_C /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Calico_Cat_AnimBP_C_6
+	Function /Game/ThirdPersonBP/Cat/Calico_Cat_AnimBP.Calico_Cat_AnimBP_C:ExecuteUbergraph_Calico_Cat_AnimBP:008E
+[2020.03.05-14.17.43:176][301]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP1BFAF97F47712756286A0BA9A148A0C9.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.18.01:520][298]MapCheck: New page: Map Check
+[2020.03.05-14.18.01:545][298]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.05-14.18.01:545][298]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : PropertyEditor
+Reason      : Rebuilding Map
+
+Purging the undo buffer...
+
+[2020.03.05-14.18.01:545][298]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.05-14.18.01:556][298]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.03.05-14.18.01:622][298]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.03.05-14.18.01:670][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-14.18.01:691][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-14.18.01:702][298]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.03.05-14.18.01:702][298]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.03.05-14.18.01:702][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-14.18.01:712][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-14.18.01:723][298]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.03.05-14.18.01:723][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-14.18.01:733][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-14.18.01:744][298]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.03.05-14.18.02:889][298]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.05-14.18.02:890][298]TextureStreamingBuild: Display: Compiling optional shaders took 1.237 seconds.
+[2020.03.05-14.18.02:902][298]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2020.03.05-14.18.02:932][298]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2020.03.05-14.18.02:978][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.05-14.18.02:987][298]LightingResults: New page: Lighting Build - 5 mars 2020 16:18:02
+[2020.03.05-14.18.03:048][298]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.05-14.18.03:156][298]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.05-14.18.03:229][298]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.05-14.18.04:788][298]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.05-14.18.04:788][298]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4872
+[2020.03.05-14.18.11:898][298]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.05-14.18.11:898][298]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.05-14.18.11:898][298]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.05-14.18.11:898][298]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.05-14.18.11:898][298]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.05-14.18.12:167][298]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.05-14.18.12:167][298]MapCheck: New page: ThirdPersonExampleMap - 5 mars 2020 16:18:12
+[2020.03.05-14.18.12:168][298]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.03.05-14.18.12:173][298]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 5,739ms to complete.
+[2020.03.05-14.18.12:175][298]LogEditorBuildUtils: Build time 0:10
+[2020.03.05-14.18.13:247][302]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.03.05-14.18.19:517][319]Job is a success!
+[2020.03.05-14.18.20:076][320]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.067s
+[2020.03.05-14.18.20:076][320]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.05-14.18.20:076][320]LogVolumetricLightmapImport:      BrickData 225x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.03.05-14.18.20:076][320]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.05-14.18.20:076][320]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.03.05-14.18.20:076][320]LogVolumetricLightmapImport:          1: 8.9% covering 6.3% of volume
+[2020.03.05-14.18.20:076][320]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2020.03.05-14.18.21:263][320]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.03.05-14.18.21:264][320]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.03.05-14.18.21:464][320]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.03.05-14.18.21:496][320]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.03.05-14.18.21:522][320]Lightmass on DESKTOP-NEIDO8U: 6.96 sec total, 286 ms importing, 27 ms setup, 1.13 sec photons, 5.44 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 21.7 sec total, 6.69 sec processing.
+[2020.03.05-14.18.21:524][320]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2020.03.05-14.18.21:575][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.03.05-14.18.21:584][320]LogStaticLightingSystem: Illumination: 18.2 sec (1.01 sec encoding lightmaps, 228 ms encoding shadowmaps)
+[2020.03.05-14.18.21:584][320]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.03.05-14.18.21:584][320]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.05-14.18.21:908][320]DumpUnbuiltLightIteractions
+[2020.03.05-14.18.21:908][320]Lights with unbuilt interactions: 0
+[2020.03.05-14.18.21:908][320]
+[2020.03.05-14.18.21:908][320]Primitives with unbuilt interactions: 0
+[2020.03.05-14.18.22:148][321]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.05-14.18.22:149][321]MapCheck: New page: ThirdPersonExampleMap - 5 mars 2020 16:18:22
+[2020.03.05-14.18.22:150][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,401ms to complete.
+[2020.03.05-14.20.59:079][790]LogSlate: Window 'Message Log' being destroyed
+[2020.03.05-14.20.59:084][790]LogSlate: Window 'Message Log' being destroyed
+[2020.03.05-14.21.15:578][683]BlueprintLog: New page: Compile Calico_Cat_AnimBP
+[2020.03.05-14.21.15:924][683]LogUObjectHash: Compacting FUObjectHashTables data took   9.66ms
+[2020.03.05-14.21.16:899][728]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_AnimBP67C2529D4E45B731F421DC8A771E7783.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_AnimBP.uasset'
+[2020.03.05-14.21.23:555][120]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.03.05-14.21.23:847][120]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/ThirdPersonExampleMap6821E1034C6D47E92BEC388DA6EB9C8E.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.05-14.21.24:019][120]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/ThirdPersonExampleMap_BuiltData4DCB86C84A7EFA5A2486D7A470D7472E.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.05-14.21.46:857][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.03.05-14.21.49:943][829]LogSlate: Window 'Save Content' being destroyed
+[2020.03.05-14.21.49:993][829]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_Idle_MovingBSFDDE5595448B8581079DA296CF6342BE.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS.uasset'
+[2020.03.05-14.21.50:018][829]LogSavePackage: Moving '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Saved/Calico_Cat_Idle_MovingBS1D6DC16C27479773CEEFD470A3D8EA5F88.tmp' to '../../../../../../Users/julma/Documents/HUMAN ACADEMY/Progra/2eme Annee/HungryCat/Hungry_Cat/Content/ThirdPersonBP/Cat/Calico_Cat_Idle_MovingBS1D.uasset'
+[2020.03.05-14.21.50:227][829]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.50:263][829]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.50:276][829]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.50:372][829]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.50:418][829]LogSlate: Window 'Hungry_Cat - Unreal Editor' being destroyed
+[2020.03.05-14.21.50:419][829]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.05-14.21.50:612][830]Cmd: QUIT_EDITOR
+[2020.03.05-14.21.50:670][830]LogExit: Preparing to exit.
+[2020.03.05-14.21.51:510][830]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:526][830]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:541][830]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:557][830]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:572][830]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:588][830]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:603][830]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:804][830]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.05-14.21.51:846][830]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-14.21.51:846][830]LogExit: Editor shut down
+[2020.03.05-14.21.51:849][830]LogExit: Transaction tracking system shut down
+[2020.03.05-14.21.52:803][830]LogExit: Object subsystem successfully closed.
+[2020.03.05-14.21.52:854][830]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.05-14.21.53:006][830]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (680)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (678)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module AnimationEditor (676)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module PinnedCommandList (672)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module SkeletonEditor (670)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.03.05-14.21.53:007][830]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.03.05-14.21.53:014][830]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.03.05-14.21.53:014][830]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.03.05-14.21.53:014][830]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.03.05-14.21.53:015][830]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.03.05-14.21.53:016][830]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.03.05-14.21.53:016][830]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.03.05-14.21.53:017][830]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.03.05-14.21.53:020][830]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.03.05-14.21.53:020][830]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.03.05-14.21.53:020][830]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.03.05-14.21.53:020][830]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.03.05-14.21.53:021][830]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.03.05-14.21.53:021][830]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.03.05-14.21.53:021][830]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.03.05-14.21.53:022][830]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.03.05-14.21.53:022][830]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.03.05-14.21.53:022][830]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.03.05-14.21.53:022][830]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.03.05-14.21.53:022][830]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.03.05-14.21.53:023][830]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.03.05-14.21.53:026][830]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.03.05-14.21.53:026][830]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.03.05-14.21.53:026][830]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.03.05-14.21.53:038][830]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.03.05-14.21.53:038][830]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.03.05-14.21.53:038][830]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.03.05-14.21.53:038][830]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.03.05-14.21.53:038][830]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.03.05-14.21.53:040][830]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.03.05-14.21.53:041][830]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.03.05-14.21.53:043][830]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.03.05-14.21.53:044][830]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.03.05-14.21.53:045][830]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.03.05-14.21.53:045][830]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.03.05-14.21.53:048][830]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.03.05-14.21.53:048][830]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.03.05-14.21.53:048][830]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.03.05-14.21.53:050][830]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.03.05-14.21.53:051][830]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.03.05-14.21.53:053][830]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.03.05-14.21.53:053][830]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.03.05-14.21.53:054][830]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.03.05-14.21.53:054][830]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.03.05-14.21.53:054][830]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.03.05-14.21.53:054][830]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.03.05-14.21.53:055][830]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.03.05-14.21.53:567][830]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.03.05-14.21.53:567][830]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.03.05-14.21.53:567][830]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.03.05-14.21.53:568][830]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.03.05-14.21.53:568][830]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.03.05-14.21.53:568][830]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.03.05-14.21.53:568][830]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.03.05-14.21.53:569][830]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.03.05-14.21.53:570][830]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.03.05-14.21.53:570][830]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.03.05-14.21.53:570][830]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.03.05-14.21.53:570][830]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.03.05-14.21.53:571][830]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.03.05-14.21.53:571][830]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.03.05-14.21.53:571][830]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.03.05-14.21.53:571][830]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.03.05-14.21.53:571][830]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.03.05-14.21.53:571][830]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.03.05-14.21.53:572][830]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.03.05-14.21.53:572][830]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.03.05-14.21.53:572][830]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.03.05-14.21.53:573][830]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.03.05-14.21.53:573][830]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.03.05-14.21.53:617][830]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.03.05-14.21.53:617][830]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.03.05-14.21.53:618][830]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.03.05-14.21.53:619][830]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.03.05-14.21.53:619][830]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.03.05-14.21.53:620][830]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.03.05-14.21.53:620][830]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.03.05-14.21.53:620][830]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.03.05-14.21.53:620][830]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.03.05-14.21.53:620][830]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.03.05-14.21.53:620][830]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.03.05-14.21.53:632][830]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.03.05-14.21.53:632][830]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.03.05-14.21.53:633][830]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.03.05-14.21.53:633][830]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.03.05-14.21.53:634][830]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.03.05-14.21.53:634][830]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.03.05-14.21.53:634][830]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.03.05-14.21.53:635][830]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.03.05-14.21.53:636][830]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.03.05-14.21.53:637][830]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.03.05-14.21.53:637][830]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.03.05-14.21.53:638][830]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.03.05-14.21.53:638][830]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.03.05-14.21.53:639][830]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.03.05-14.21.53:639][830]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.03.05-14.21.53:639][830]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.03.05-14.21.53:639][830]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.03.05-14.21.53:639][830]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.03.05-14.21.53:640][830]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.03.05-14.21.53:640][830]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.03.05-14.21.53:640][830]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.03.05-14.21.53:640][830]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.03.05-14.21.53:641][830]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.03.05-14.21.53:641][830]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.03.05-14.21.53:641][830]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.03.05-14.21.53:641][830]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.03.05-14.21.53:645][830]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.03.05-14.21.53:703][830]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.03.05-14.21.53:705][830]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.03.05-14.21.53:705][830]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.03.05-14.21.53:705][830]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.03.05-14.21.53:705][830]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.03.05-14.21.53:706][830]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.03.05-14.21.53:707][830]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.03.05-14.21.53:707][830]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.03.05-14.21.53:707][830]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.03.05-14.21.53:707][830]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.03.05-14.21.53:707][830]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.03.05-14.21.53:709][830]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.03.05-14.21.53:709][830]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.03.05-14.21.53:710][830]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.03.05-14.21.53:710][830]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.03.05-14.21.53:710][830]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.03.05-14.21.53:710][830]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.03.05-14.21.53:710][830]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.03.05-14.21.53:710][830]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.03.05-14.21.53:710][830]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.03.05-14.21.53:711][830]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.03.05-14.21.53:711][830]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.03.05-14.21.53:711][830]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.03.05-14.21.53:711][830]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.03.05-14.21.53:711][830]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.03.05-14.21.53:712][830]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.03.05-14.21.53:712][830]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.03.05-14.21.53:712][830]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.03.05-14.21.53:712][830]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.03.05-14.21.53:712][830]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.03.05-14.21.53:714][830]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.03.05-14.21.53:715][830]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.03.05-14.21.53:715][830]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.03.05-14.21.53:716][830]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.03.05-14.21.53:718][830]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.03.05-14.21.53:718][830]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.03.05-14.21.53:718][830]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.03.05-14.21.53:718][830]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.03.05-14.21.53:719][830]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.03.05-14.21.53:719][830]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.03.05-14.21.53:719][830]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.03.05-14.21.53:721][830]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.03.05-14.21.53:722][830]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.03.05-14.21.53:722][830]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.03.05-14.21.53:722][830]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.03.05-14.21.53:722][830]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.03.05-14.21.53:722][830]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.03.05-14.21.53:723][830]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.03.05-14.21.53:723][830]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.03.05-14.21.53:723][830]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.03.05-14.21.53:723][830]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.03.05-14.21.53:725][830]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.03.05-14.21.53:725][830]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.03.05-14.21.53:725][830]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.03.05-14.21.53:725][830]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.03.05-14.21.53:725][830]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.03.05-14.21.53:725][830]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.03.05-14.21.53:825][830]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.03.05-14.21.53:928][830]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.03.05-14.21.53:928][830]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.03.05-14.21.53:928][830]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.03.05-14.21.53:929][830]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.03.05-14.21.53:929][830]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.03.05-14.21.53:930][830]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.05-14.21.53:930][830]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.03.05-14.21.53:930][830]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.03.05-14.21.53:931][830]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.03.05-14.21.53:931][830]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.03.05-14.21.53:931][830]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.03.05-14.21.53:932][830]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.03.05-14.21.53:932][830]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.03.05-14.21.53:934][830]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.03.05-14.21.53:940][830]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.03.05-14.21.53:941][830]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.03.05-14.21.53:942][830]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.03.05-14.21.53:942][830]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.03.05-14.21.53:944][830]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.03.05-14.21.53:949][830]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.03.05-14.21.53:950][830]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.03.05-14.21.53:950][830]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.03.05-14.21.53:950][830]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.03.05-14.21.53:951][830]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.03.05-14.21.53:957][830]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.03.05-14.21.53:958][830]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.03.05-14.21.53:958][830]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.03.05-14.21.53:958][830]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.03.05-14.21.53:958][830]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.03.05-14.21.53:959][830]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.03.05-14.21.53:959][830]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.03.05-14.21.53:960][830]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.03.05-14.21.53:960][830]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.03.05-14.21.53:961][830]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.03.05-14.21.53:962][830]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.03.05-14.21.53:962][830]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.03.05-14.21.53:965][830]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.03.05-14.21.53:966][830]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.03.05-14.21.53:967][830]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.03.05-14.21.53:968][830]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.03.05-14.21.53:969][830]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.03.05-14.21.53:970][830]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.03.05-14.21.53:975][830]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.03.05-14.21.53:975][830]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.03.05-14.21.53:977][830]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.03.05-14.21.53:978][830]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.03.05-14.21.53:978][830]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.03.05-14.21.53:984][830]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.03.05-14.21.53:985][830]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.03.05-14.21.53:985][830]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.03.05-14.21.53:986][830]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.03.05-14.21.53:988][830]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.03.05-14.21.53:989][830]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.03.05-14.21.53:989][830]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.03.05-14.21.53:990][830]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.03.05-14.21.53:990][830]LogDerivedDataCache: Shutdown
+[2020.03.05-14.21.53:990][830]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.03.05-14.21.53:991][830]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.03.05-14.21.53:992][830]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.03.05-14.21.53:993][830]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.03.05-14.21.53:993][830]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.03.05-14.21.53:994][830]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.03.05-14.21.53:995][830]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.03.05-14.21.53:996][830]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.03.05-14.21.53:996][830]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.03.05-14.21.53:996][830]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.03.05-14.21.53:996][830]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.03.05-14.21.53:997][830]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.03.05-14.21.53:997][830]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.03.05-14.21.53:997][830]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.03.05-14.21.53:998][830]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.03.05-14.21.53:998][830]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.03.05-14.21.53:998][830]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.03.05-14.21.53:998][830]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.05-14.21.54:023][830]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.03.05-14.21.54:023][830]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.03.05-14.21.54:025][830]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.03.05-14.21.54:025][830]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.03.05-14.21.54:025][830]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.03.05-14.21.54:061][830]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.03.05-14.21.54:061][830]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.03.05-14.21.54:069][830]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.03.05-14.21.54:069][830]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.03.05-14.21.54:119][830]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.03.05-14.21.54:120][830]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.03.05-14.21.54:121][830]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.05-14.21.54:121][830]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.03.05-14.21.54:121][830]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.03.05-14.21.54:121][830]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.03.05-14.21.54:121][830]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.03.05-14.21.54:121][830]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.03.05-14.21.54:125][830]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.03.05-14.21.54:126][830]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.03.05-14.21.54:162][830]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.03.05-14.21.54:163][830]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.05-14.21.54:163][830]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32B55DF7-4C72-3E79-5CCD-87970310D0CD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=1ef823f94141c0c0905930afe79baa00%7Cb89d96598ec94b46baf97f509606215e%7Cfdb99546-394c-4d04-8071-b7c0a8251eb0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.05-14.21.54:190][830]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.03.05-14.21.54:196][830]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.03.05-14.21.54:200][830]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.03.05-14.21.54:202][830]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.03.05-14.21.54:202][830]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.03.05-14.21.54:202][830]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.03.05-14.21.54:202][830]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.03.05-14.21.54:203][830]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.05-14.21.54:203][830]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.05-14.21.54:204][830]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.05-14.21.54:204][830]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.05-14.21.54:206][830]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.05-14.21.54:206][830]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.05-14.21.54:206][830]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.05-14.21.54:206][830]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.05-14.21.54:210][830]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.05-14.21.54:211][830]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.05-14.21.54:211][830]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.05-14.21.54:211][830]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.05-14.21.54:211][830]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.05-14.21.54:211][830]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.05-14.21.54:211][830]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.05-14.21.54:211][830]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.05-14.21.54:212][830]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.05-14.21.54:212][830]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.05-14.21.54:212][830]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.05-14.21.54:213][830]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.05-14.21.54:216][830]LogD3D11RHI: Shutdown
+[2020.03.05-14.21.54:216][830]LogD3D11RHI: CleanupD3DDevice
+[2020.03.05-14.21.54:219][830]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-14.21.54:220][830]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-14.21.54:220][830]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-14.21.54:403][830]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.05-14.21.54:412][830]LogExit: Exiting.
+[2020.03.05-14.21.54:431][830]Log file closed, 03/05/20 15:21:54
