@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.log
 Hungry_Cat/Saved/Logs/Hungry_Cat.log
+Hungry_Cat/Saved/AutoScreenshot.png
+Hungry_Cat/Saved/*
