@@ -67,7 +67,7 @@ Build/*/**
 Saved/*
 Hungry_Cat/Saved/*
 # Compiled source files for the engine to use
-Intermediate/*
+Hungry_Cat/Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
