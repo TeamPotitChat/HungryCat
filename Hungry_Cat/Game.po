@@ -1,0 +1,1135 @@
+﻿# Game French translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2020-06-02 08:55\n"
+"PO-Revision-Date: 2020-06-02 08:55\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	007059464B2535ED81BF3499D6066E41
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock.Text
+msgctxt ",007059464B2535ED81BF3499D6066E41"
+msgid "SFX"
+msgstr "SFX"
+
+#. Key:	009018B64FC253581CF201A93DF29DB8
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",009018B64FC253581CF201A93DF29DB8"
+msgid "Style Snow"
+msgstr "Style Snow"
+
+#. Key:	00E6F4EB400C48283B5BD993E9445E40
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.1.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.1.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",00E6F4EB400C48283B5BD993E9445E40"
+msgid "Bon il faut que je le retrouve ce nigaud. Explorons le quartier."
+msgstr "Well, I have to find that simpleton. Let's explore this district"
+
+#. Key:	0249A0E24FE0A005BF5F1B82F8F4E399
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",0249A0E24FE0A005BF5F1B82F8F4E399"
+msgid "Style Cold"
+msgstr "Style Cold"
+
+#. Key:	032F9F744BFA902DB2F04296B24A7B3D
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.3.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.3.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",032F9F744BFA902DB2F04296B24A7B3D"
+msgid "Je pourrais facilement devenir contorsionniste"
+msgstr "I could easily become contortionist"
+
+#. Key:	0668339B42183F7AC23B2C927A231E3D
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.11.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.11.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",0668339B42183F7AC23B2C927A231E3D"
+msgid "Je dois trouver un moyen de contourner cette eau..."
+msgstr "I have to find a way to bypass this water..."
+
+#. Key:	075B289D497325039F99418AA4A1218F
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.12.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.12.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",075B289D497325039F99418AA4A1218F"
+msgid "J'ai beau sauter haut, cette palissade est dangereuse... il doit bien y avoir un moyen !"
+msgstr "I know I jump high, but this fence is dangerous... There must be another way..."
+
+#. Key:	07FA82044A9528C6424B7D9B4496B405
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(20 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(20 - Value).DisplayNameMap
+msgctxt ",07FA82044A9528C6424B7D9B4496B405"
+msgid "Style UDK Morning Sky"
+msgstr "Style UDK Morning Sky"
+
+#. Key:	07FC601A4C18D571949C9D923116F0DB
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",07FC601A4C18D571949C9D923116F0DB"
+msgid "Style Clouds Stratus"
+msgstr "Style Clouds Stratus"
+
+#. Key:	08B344C44BC6817C756B4EB768501908
+#. SourceLocation:	/Game/Hungry_Cat/VFX/CatSense.CatSense:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+#: /Game/Hungry_Cat/VFX/CatSense.CatSense:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+msgctxt ",08B344C44BC6817C756B4EB768501908"
+msgid "CatSense_Emitter"
+msgstr "CatSense_Emitter"
+
+#. Key:	0908BFE7445DEF3BC81ABBA615901517
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",0908BFE7445DEF3BC81ABBA615901517"
+msgid "SunSet Smoothly"
+msgstr "SunSet Smoothly"
+
+#. Key:	0944992849FF33C18D1B71AC0EFFE760
+#. SourceLocation:	/Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_40.DisplayName
+#: /Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_40.DisplayName
+msgctxt ",0944992849FF33C18D1B71AC0EFFE760"
+msgid "VFX_Ruban"
+msgstr "VFX_Ruban"
+
+#. Key:	094D7B3442826C3AE90784A4EA963A70
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.17.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.17.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",094D7B3442826C3AE90784A4EA963A70"
+msgid "Appuyer sur <img id=\"Y\"/> pour prendre l'objet"
+msgstr "Press <img id=\"Y\"/> to take objects"
+
+#. Key:	0B704FC145D9C2354B93A9849329E7AC
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_3.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_3.Text
+msgctxt ",0B704FC145D9C2354B93A9849329E7AC"
+msgid "RESOLUTION :"
+msgstr "RESOLUTION :"
+
+#. Key:	0BC29CFD4EB9B9F66E5F22925E2FB409
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Tuto.UMG_Tuto_C:WidgetTree.DialogueText.Text
+#: /Game/Hungry_Cat/UI/UMG_Tuto.UMG_Tuto_C:WidgetTree.DialogueText.Text
+msgctxt ",0BC29CFD4EB9B9F66E5F22925E2FB409"
+msgid "Miaou, j'ai bien dormi."
+msgstr "Meoooow, I slept well."
+
+#. Key:	0E1BE1364230D0FAEB3B0A9DE856C542
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Tuto.Default__UMG_Tuto_C.TutoDialogueText
+#: /Game/Hungry_Cat/UI/UMG_Tuto.Default__UMG_Tuto_C.TutoDialogueText
+msgctxt ",0E1BE1364230D0FAEB3B0A9DE856C542"
+msgid "Miaou, j'ai bien dormi."
+msgstr "Meoooow, I slept well."
+
+#. Key:	0E4B81A24328E64421837AAA434B5DCC
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",0E4B81A24328E64421837AAA434B5DCC"
+msgid "Je peux aller voir dans la chambre"
+msgstr "I can go check in the bedroom."
+
+#. Key:	0E988BED4023847E58B6FC9F963E0EFF
+#. SourceLocation:	/Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.1.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+#: /Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.1.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+msgctxt ",0E988BED4023847E58B6FC9F963E0EFF"
+msgid "Lâche ce poisson"
+msgstr "Drop that fish."
+
+#. Key:	10F2A86243AAC9B2830B8CA7A16AB42D
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",10F2A86243AAC9B2830B8CA7A16AB42D"
+msgid "Je vais aller regarder sur la table."
+msgstr "I will take a look on the table"
+
+#. Key:	1680FB49428510B640767FBC29D9E5A9
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",1680FB49428510B640767FBC29D9E5A9"
+msgid "Style UDK Noon Sky"
+msgstr "Style UDK Noon Sky"
+
+#. Key:	16ED9A27480CA9369B2201B10CB8855B
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",16ED9A27480CA9369B2201B10CB8855B"
+msgid "Regarder sur la table"
+msgstr "Look on the table."
+
+#. Key:	1BC56CB44C825C5933AB4289991385F2
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_975.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_975.Text
+msgctxt ",1BC56CB44C825C5933AB4289991385F2"
+msgid "RETOUR"
+msgstr "RETURN"
+
+#. Key:	1C2E86EC4638D75B486B08B393112217
+#. SourceLocation:	/Game/Hungry_Cat/UI/IGTEXT.IGTEXT_C:WidgetTree.Croqu_1.Text
+#: /Game/Hungry_Cat/UI/IGTEXT.IGTEXT_C:WidgetTree.Croqu_1.Text
+msgctxt ",1C2E86EC4638D75B486B08B393112217"
+msgid "Plume(s)"
+msgstr "Feather(s)"
+
+#. Key:	1DC7A859456977174A0F16A081E11C6E
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_8.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_8.Text
+msgctxt ",1DC7A859456977174A0F16A081E11C6E"
+msgid "Sky Preset"
+msgstr "Sky Preset"
+
+#. Key:	1DCB93B445ECB6FDF9CD81BFBEF81BA7
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",1DCB93B445ECB6FDF9CD81BFBEF81BA7"
+msgid "Sauter sur le frigo"
+msgstr "Jump over the fridge."
+
+#. Key:	20AA5578414AC34898FF10B5D3A05607
+#. SourceLocation:	/Game/Hungry_Cat/VFX/FireflyParticle.FireflyParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+#: /Game/Hungry_Cat/VFX/FireflyParticle.FireflyParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+msgctxt ",20AA5578414AC34898FF10B5D3A05607"
+msgid "FireflyEmitter"
+msgstr "FireflyEmitter"
+
+#. Key:	21577211483BC02B3C1647B6EE46DFC3
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",21577211483BC02B3C1647B6EE46DFC3"
+msgid "Renverser la poubelle"
+msgstr "Overthrow the trashcan."
+
+#. Key:	22203A3B4072CFE3C2F6E3A292E2B789
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",22203A3B4072CFE3C2F6E3A292E2B789"
+msgid "Midnight Storm"
+msgstr "Midnight Storm"
+
+#. Key:	2295A5CE4C86A968A4F8909861C06D94
+#. SourceLocation:	/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",2295A5CE4C86A968A4F8909861C06D94"
+msgid "Third Person"
+msgstr "Third Person"
+
+#. Key:	2492EEBA4B486416AEB5ABA398C2CD06
+#. SourceLocation:	/Game/Hungry_Cat/Maitre/remyAnim_Enum.remyAnim_Enum.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Hungry_Cat/Maitre/remyAnim_Enum.remyAnim_Enum.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",2492EEBA4B486416AEB5ABA398C2CD06"
+msgid "Crouch"
+msgstr "Crouch"
+
+#. Key:	24C02111400EF76FF033268A00C7F050
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_4.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",24C02111400EF76FF033268A00C7F050"
+msgid "0 X"
+msgstr "0 X"
+
+#. Key:	262768E542DA113C7DDDF2B2CF1100B7
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(19 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(19 - Value).DisplayNameMap
+msgctxt ",262768E542DA113C7DDDF2B2CF1100B7"
+msgid "Style UDK Afternoon Sky"
+msgstr "Style UDK Afternoon Sky"
+
+#. Key:	279113054FFFCFF8DFC663B51883F215
+#. SourceLocation:	/Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.0.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+#: /Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.0.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+msgctxt ",279113054FFFCFF8DFC663B51883F215"
+msgid "Mais qu'est ce que tu fais là toi ?"
+msgstr "Hey, what are you doing here ?"
+
+#. Key:	29851FA04AE82C8291EC56BDE821D05E
+#. SourceLocation:	/Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_45.DisplayName
+#: /Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_45.DisplayName
+msgctxt ",29851FA04AE82C8291EC56BDE821D05E"
+msgid "VFX_Ruban002"
+msgstr "VFX_Ruban002"
+
+#. Key:	2994093249C7818356F06F92E4AF9176
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",2994093249C7818356F06F92E4AF9176"
+msgid "Style UDK Night Sky"
+msgstr "Style UDK Night Sky"
+
+#. Key:	29BD58F44940479856DC83A920C4E1AB
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",29BD58F44940479856DC83A920C4E1AB"
+msgid "Style UE4 Default Sky"
+msgstr "Style UE4 Default Sky"
+
+#. Key:	2E82C8784E299F439F626EA365B452F2
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_294.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_294.Text
+msgctxt ",2E82C8784E299F439F626EA365B452F2"
+msgid "BGM"
+msgstr "BGM"
+
+#. Key:	2F0000CB425117FAF2F31FB61072A8F1
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(22 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(22 - Value).DisplayNameMap
+msgctxt ",2F0000CB425117FAF2F31FB61072A8F1"
+msgid "Style Forest"
+msgstr "Style Forest"
+
+#. Key:	30693A334702BF8F3823F4921D7E4DE6
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_2.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_2.Text
+msgctxt ",30693A334702BF8F3823F4921D7E4DE6"
+msgid "IMAGE"
+msgstr "IMAGE"
+
+#. Key:	31D83C4F4BDAF12AEC710799CC5D78DA
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_4.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_4.Text
+msgctxt ",31D83C4F4BDAF12AEC710799CC5D78DA"
+msgid "PLEIN ECRAN :"
+msgstr "FULLSCREEN :"
+
+#. Key:	337138C44A7DE7B2C865DC838A24087C
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",337138C44A7DE7B2C865DC838A24087C"
+msgid "Style Clouds Cumulus A"
+msgstr "Style Clouds Cumulus A"
+
+#. Key:	33D7A1A2496CF70D335B929531B31759
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",33D7A1A2496CF70D335B929531B31759"
+msgid "Tu as les plumes? Un chat de goutière a des standards ! Rammène en plus."
+msgstr "Tu as les plumes? Un chat de goutière a des standards ! Rammène en plus."
+
+#. Key:	38562B3D4665EF716FD5E79440C64664
+#. SourceLocation:	/Game/Hungry_Cat/VFX/BigDustParticle.BigDustParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+#: /Game/Hungry_Cat/VFX/BigDustParticle.BigDustParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+msgctxt ",38562B3D4665EF716FD5E79440C64664"
+msgid "Dust"
+msgstr "Dust"
+
+#. Key:	3961995F489600F5C151CEA847745B94
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Credits.UMG_Credits_C:WidgetTree.TextBlock_61.Text
+#: /Game/Hungry_Cat/UI/UMG_Credits.UMG_Credits_C:WidgetTree.TextBlock_61.Text
+msgctxt ",3961995F489600F5C151CEA847745B94"
+msgid "CREDITS"
+msgstr "CREDITS"
+
+#. Key:	3C6026204CDF91D817C08B938637009D
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",3C6026204CDF91D817C08B938637009D"
+msgid "Tu as déjà les plumes? Ok, Passe, mais fais patte blanche."
+msgstr "You already have the feathers ? Ok, you can go then. But don't get in trouble."
+
+#. Key:	3E742DB24B1A001D373BF283428BB879
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",3E742DB24B1A001D373BF283428BB879"
+msgid "SunSet ( From Time Of Day : 18 )"
+msgstr "SunSet ( From Time Of Day : 18 )"
+
+#. Key:	3FCF6917400FBD599D6D99AEBAD1050F
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",3FCF6917400FBD599D6D99AEBAD1050F"
+msgid "Noon Clear Sky"
+msgstr "Noon Clear Sky"
+
+#. Key:	422DA8BF44D1DD2016B9A8AB06845F70
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_61.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_61.Text
+msgctxt ",422DA8BF44D1DD2016B9A8AB06845F70"
+msgid "SON"
+msgstr "SOUND"
+
+#. Key:	424FDC3B41F72DF2C73EE09BC84D6F7C
+#. SourceLocation:	/Game/Hungry_Cat/VFX/CatSense.CatSense:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+#: /Game/Hungry_Cat/VFX/CatSense.CatSense:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+msgctxt ",424FDC3B41F72DF2C73EE09BC84D6F7C"
+msgid "CatSense_Emitter"
+msgstr "CatSense_Emitter"
+
+#. Key:	42BED7FA4C5A55C3945FD9A1046726E6
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",42BED7FA4C5A55C3945FD9A1046726E6"
+msgid "Maintenir RT pour courir"
+msgstr "Maintain RT to sprint"
+
+#. Key:	43234A0B4A23383CDFEFD581F36161F7
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",43234A0B4A23383CDFEFD581F36161F7"
+msgid "Midnight Blood Moon"
+msgstr "Midnight Blood Moon"
+
+#. Key:	45D1FD6047BAF9B37EE7578563966299
+#. SourceLocation:	/Game/Hungry_Cat/UI/Thx4Playing.Thx4Playing_C:WidgetTree.TextBlock_33.Text
+#: /Game/Hungry_Cat/UI/Thx4Playing.Thx4Playing_C:WidgetTree.TextBlock_33.Text
+msgctxt ",45D1FD6047BAF9B37EE7578563966299"
+msgid "Merci d'avoir joué !"
+msgstr "Thanks for playing !"
+
+#. Key:	4732A6C1457474AFBFA69E9DA0B8067E
+#. SourceLocation:	/Game/Hungry_Cat/UI/IGTEXT.IGTEXT_C:WidgetTree.DialogueText_1.Text
+#: /Game/Hungry_Cat/UI/IGTEXT.IGTEXT_C:WidgetTree.DialogueText_1.Text
+msgctxt ",4732A6C1457474AFBFA69E9DA0B8067E"
+msgid "Miaou, j'ai bien dormi."
+msgstr "Meoooow, I slept well"
+
+#. Key:	48E1D7724F654C74AF9996838E004211
+#. SourceLocation:	/Game/Hungry_Cat/UI/IGTEXT.IGTEXT_C:WidgetTree.Croqu.Text
+#: /Game/Hungry_Cat/UI/IGTEXT.IGTEXT_C:WidgetTree.Croqu.Text
+msgctxt ",48E1D7724F654C74AF9996838E004211"
+msgid "0"
+msgstr "0"
+
+#. Key:	49A4AD7D4721BD248EE3C5BF9BBF4B67
+#. SourceLocation:	/Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_133.Text
+#: /Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_133.Text
+msgctxt ",49A4AD7D4721BD248EE3C5BF9BBF4B67"
+msgid "JOUER"
+msgstr "PLAY"
+
+#. Key:	49B65F0C42166CEA3748DF82511FE796
+#. SourceLocation:	/Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.2.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+#: /Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.2.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+msgctxt ",49B65F0C42166CEA3748DF82511FE796"
+msgid "Et c'est quoi toutes ces plumes ? On dirait un poulet"
+msgstr "And what are all these feathers? You look like a chicken"
+
+#. Key:	4A0705184795C1138AAC5C99C8A04BE6
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",4A0705184795C1138AAC5C99C8A04BE6"
+msgid "Va sur la marque au sol"
+msgstr "Go on mark on the ground."
+
+#. Key:	4E65311C4217C694C4040D86EFC71679
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",4E65311C4217C694C4040D86EFC71679"
+msgid "Style Clouds Cirriform"
+msgstr "Style Clouds Cirriform"
+
+#. Key:	4ED6660D46F04A9B1F4221927C680F2D
+#. SourceLocation:	/Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_101.Text
+#: /Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_101.Text
+msgctxt ",4ED6660D46F04A9B1F4221927C680F2D"
+msgid "Hungry Cat"
+msgstr "Hungry Cat"
+
+#. Key:	50427BE64892B66F35FA42BE5EF10A79
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",50427BE64892B66F35FA42BE5EF10A79"
+msgid "Tiens la porte est entre-ouverte"
+msgstr "Oh ? The door is half open..."
+
+#. Key:	5075992E4522027AB83DC58D7E052E71
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.9.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.9.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",5075992E4522027AB83DC58D7E052E71"
+msgid "Par où est-ce que je peux passer ?"
+msgstr "Which way can i go ?"
+
+#. Key:	542A426F4249E140A51EC69C9C9A803C
+#. SourceLocation:	/Game/Hungry_Cat/VFX/VFX_HIT_System.VFX_HIT_System:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+#: /Game/Hungry_Cat/VFX/VFX_HIT_System.VFX_HIT_System:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+msgctxt ",542A426F4249E140A51EC69C9C9A803C"
+msgid "VFX_HIT"
+msgstr "VFX_HIT"
+
+#. Key:	555422144FA86E824E02ED86A2F1875A
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.8.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.8.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",555422144FA86E824E02ED86A2F1875A"
+msgid "J'ai tellement faim... Il me faut ce poisson !"
+msgstr "I'm so hungry... I need that fish!"
+
+#. Key:	5575AC4D487FB36E6FF7A7BD75EB1225
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",5575AC4D487FB36E6FF7A7BD75EB1225"
+msgid "Je vais aller voir s'il reste à manger !"
+msgstr "I will see if there is any food left!"
+
+#. Key:	557FE8C44C93F6670BD6B2A1EDCB717C
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",557FE8C44C93F6670BD6B2A1EDCB717C"
+msgid "Midnight Stars "
+msgstr "Midnight Stars "
+
+#. Key:	58A0AF2B4910F0EF23614F80892BE87E
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",58A0AF2B4910F0EF23614F80892BE87E"
+msgid "Oh mais c'est un Hot Dog ! Tu voudrais bien me le donner ? "
+msgstr "Hey, that's a hot dog ! Would you mind giving it to me ?"
+
+#. Key:	59418E854CE2D1953B1EB1B5B9733E4B
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",59418E854CE2D1953B1EB1B5B9733E4B"
+msgid "Custom Mode ( From Time Of Day )"
+msgstr "Custom Mode ( From Time Of Day )"
+
+#. Key:	5AE72DBC44CA8050A917B1BE499C4730
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_3.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",5AE72DBC44CA8050A917B1BE499C4730"
+msgid "GOOD SKY"
+msgstr "GOOD SKY"
+
+#. Key:	5B0E9DDB4140D23FCBC9B98694DF551E
+#. SourceLocation:	/Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_44.DisplayName
+#: /Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_44.DisplayName
+msgctxt ",5B0E9DDB4140D23FCBC9B98694DF551E"
+msgid "VFX_Ruban002"
+msgstr "VFX_Ruban002"
+
+#. Key:	5BA7EA2A4D0334EF918A968BBF055D6F
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",5BA7EA2A4D0334EF918A968BBF055D6F"
+msgid "Y'a rien non plus ! L'humain à du la vider..."
+msgstr "There is nothing either ! The human probably empltied it..."
+
+#. Key:	5D6BB73E4593BD54F7B50DB0F71B5192
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",5D6BB73E4593BD54F7B50DB0F71B5192"
+msgid "Moon"
+msgstr "Moon"
+
+#. Key:	5DFA9B11478E16F2D634D3AF2921987C
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.7.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.7.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",5DFA9B11478E16F2D634D3AF2921987C"
+msgid "Ca sent le poisson par ici ! Miam !"
+msgstr "Ca sent le poisson par ici ! Miam !"
+
+#. Key:	5FD5B66D4208B756FFD90DA32C7CE515
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",5FD5B66D4208B756FFD90DA32C7CE515"
+msgid "Merci ! Prends cette plume en echange !"
+msgstr "Thanks ! Here, take that feather in return !"
+
+#. Key:	60A073F94502003CB810A9A387FA0967
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",60A073F94502003CB810A9A387FA0967"
+msgid "J'ai faim..."
+msgstr "I'm hungry..."
+
+#. Key:	60D36A614EB321775A0CF18D331F2D20
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_154.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_154.Text
+msgctxt ",60D36A614EB321775A0CF18D331F2D20"
+msgid "Turn Speed Rate"
+msgstr "Turn Speed Rate"
+
+#. Key:	620C7EDB422ED85DBC47DE92B28E29FC
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",620C7EDB422ED85DBC47DE92B28E29FC"
+msgid "Slight"
+msgstr "Slight"
+
+#. Key:	65DBADAA44256DCA12A335AA35A3F352
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",65DBADAA44256DCA12A335AA35A3F352"
+msgid "Ici, c'est mon teritoire! Si tu veux passer, rapporte moi au moins 7 plumes. File!"
+msgstr "Here, it's my territory! If you want to pass, bring me at least 7 feathers. Now go!"
+
+#. Key:	6760E4864B8DDCE27C7E808541B92975
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",6760E4864B8DDCE27C7E808541B92975"
+msgid "Manger !"
+msgstr "Eaaaat !"
+
+#. Key:	679998234F06369CEA7F71B0B32861D5
+#. SourceLocation:	/Game/Hungry_Cat/Maitre/remyAnim_Enum.remyAnim_Enum.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Hungry_Cat/Maitre/remyAnim_Enum.remyAnim_Enum.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",679998234F06369CEA7F71B0B32861D5"
+msgid "Stand to crouch"
+msgstr "Stand to crouch"
+
+#. Key:	67DA9E8646A42B7960887DAEED0A4E9C
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_9.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_9.Text
+msgctxt ",67DA9E8646A42B7960887DAEED0A4E9C"
+msgid "by UNEASY"
+msgstr "by UNEASY"
+
+#. Key:	68A54D144F88ED176B193F82E8A29D06
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:JumpText [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:JumpText [Script Bytecode]
+msgctxt ",68A54D144F88ED176B193F82E8A29D06"
+msgid "Appuie sur <img id=\"A\"/> pour faire un long saut"
+msgstr "Press <img id=\"A\"/> to make a long jump"
+
+#. Key:	6D378A1946FC23D9A26DC9850EA02EAA
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",6D378A1946FC23D9A26DC9850EA02EAA"
+msgid "Peut-être sur le frigo !"
+msgstr "Maybe on the fridge !"
+
+#. Key:	6DE6EDF74B4B78DB5593D0AA7DAD8F7A
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",6DE6EDF74B4B78DB5593D0AA7DAD8F7A"
+msgid "<img id=\"B\"/> pour donner un coup de patoune"
+msgstr "<img id=\"B\"/>  to poke with your paw"
+
+#. Key:	6DFA66A247961B0F3A2E9AA5C8CC8301
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",6DFA66A247961B0F3A2E9AA5C8CC8301"
+msgid "Hey je peux pas bouger mais j'ai super faim !"
+msgstr "Hey! I cannot move but I'm really hungry!"
+
+#. Key:	6FED8DFE4CC60A12F2FB6AA8B18BE047
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",6FED8DFE4CC60A12F2FB6AA8B18BE047"
+msgid "Merci !"
+msgstr "Thanks !"
+
+#. Key:	71CC8A994DBBAC7652ED4CA95E829C54
+#. SourceLocation:	/Game/Hungry_Cat/VFX/VFX_HIT_System.VFX_HIT_System:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+#: /Game/Hungry_Cat/VFX/VFX_HIT_System.VFX_HIT_System:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+msgctxt ",71CC8A994DBBAC7652ED4CA95E829C54"
+msgid "VFX_HIT"
+msgstr "VFX_HIT"
+
+#. Key:	71E1DFDE411D732E5FA99FA997BBDBD0
+#. SourceLocation:	/Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_42.DisplayName
+#: /Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_42.DisplayName
+msgctxt ",71E1DFDE411D732E5FA99FA997BBDBD0"
+msgid "VFX_Ruban001"
+msgstr "VFX_Ruban001"
+
+#. Key:	730810A240D757B1CFDAE19979CD2B8D
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(21 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(21 - Value).DisplayNameMap
+msgctxt ",730810A240D757B1CFDAE19979CD2B8D"
+msgid "Style Desert"
+msgstr "Style Desert"
+
+#. Key:	776144E4450390CE9DBD2484621A0C21
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",776144E4450390CE9DBD2484621A0C21"
+msgid "Midnight ( From Time Of Day : 0 )"
+msgstr "Midnight ( From Time Of Day : 0 )"
+
+#. Key:	77F5E06C40A387A6948910803B0F0596
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",77F5E06C40A387A6948910803B0F0596"
+msgid "Regarder vers la cuisine"
+msgstr "Look on towards the kitchen."
+
+#. Key:	7885C3DE4535296CCAA3B3BFB8959309
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",7885C3DE4535296CCAA3B3BFB8959309"
+msgid "Je dois trouver un moyen de sortir"
+msgstr "I have to find a way to get out of here."
+
+#. Key:	79C2760045810FC3C8F066AE59F3637B
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",79C2760045810FC3C8F066AE59F3637B"
+msgid "Je vais regarder dans la poubelle s'il y a un truc à grignoter."
+msgstr "I will check in the trashcan if there is something to nibble."
+
+#. Key:	7A2909914A021222F26214974507EB00
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",7A2909914A021222F26214974507EB00"
+msgid "Joystick gauche pour se déplacer"
+msgstr "Left joystick to move"
+
+#. Key:	7B92825049D637A8B598A8AB9E439903
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",7B92825049D637A8B598A8AB9E439903"
+msgid "Trouver un moyen de sortir"
+msgstr "Find a way to go out."
+
+#. Key:	7D12D3E14DD8297C0F3663AC4E8F339C
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",7D12D3E14DD8297C0F3663AC4E8F339C"
+msgid "Storm"
+msgstr "Storm"
+
+#. Key:	80B459FE4BC9530022BFDF9D96C7270F
+#. SourceLocation:	/Game/Hungry_Cat/UI/Thx4Playing.Thx4Playing_C:WidgetTree.TextBlock_185.Text
+#: /Game/Hungry_Cat/UI/Thx4Playing.Thx4Playing_C:WidgetTree.TextBlock_185.Text
+msgctxt ",80B459FE4BC9530022BFDF9D96C7270F"
+msgid "Start pour rejouer"
+msgstr "Start to replay."
+
+#. Key:	82BAFE9C4B1161563ADEDDA8062A8913
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",82BAFE9C4B1161563ADEDDA8062A8913"
+msgid "Trouver un moyen de sortir"
+msgstr "Find a way to go out."
+
+#. Key:	83657DE3402B9E4D1492358924CB4F0A
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",83657DE3402B9E4D1492358924CB4F0A"
+msgid "Appeler le maître"
+msgstr "Call the handler"
+
+#. Key:	840166C04B4AC8DC60A72282983CE128
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",840166C04B4AC8DC60A72282983CE128"
+msgid "Noon ( From Time Of Day : 12 )"
+msgstr "Noon ( From Time Of Day : 12 )"
+
+#. Key:	8420774246487C71AFB6A08A47116BBF
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",8420774246487C71AFB6A08A47116BBF"
+msgid "Je dois retrouver l'humain"
+msgstr "I have to find out the human."
+
+#. Key:	8615B5884E64AAE4EE9D0DB0320205E1
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",8615B5884E64AAE4EE9D0DB0320205E1"
+msgid "Style Clouds Cumulus B"
+msgstr "Style Clouds Cumulus B"
+
+#. Key:	86EF06B54257BA9A1CB807A0998925CD
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",86EF06B54257BA9A1CB807A0998925CD"
+msgid "Je vais appeler l'humain"
+msgstr "I am going to call the human."
+
+#. Key:	88872FE84100E15EDB1E9DBC5EA26E28
+#. SourceLocation:	/Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_43.DisplayName
+#: /Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_43.DisplayName
+msgctxt ",88872FE84100E15EDB1E9DBC5EA26E28"
+msgid "VFX_Ruban001"
+msgstr "VFX_Ruban001"
+
+#. Key:	8C3610DD499C6EA86E4069AF383C70B0
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_5.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_5.Text
+msgctxt ",8C3610DD499C6EA86E4069AF383C70B0"
+msgid "QUALITE :"
+msgstr "QUALITY :"
+
+#. Key:	8F2240264FEB19EF291C71ABC3C73E57
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",8F2240264FEB19EF291C71ABC3C73E57"
+msgid "<img id=\"X\"/> pour miauler"
+msgstr "<img id=\"X\"/>  to meow."
+
+#. Key:	907A2F784DA8F3984BF842806649E60F
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.15.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.15.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",907A2F784DA8F3984BF842806649E60F"
+msgid "Il faut que je pique ce poisson !"
+msgstr "I have to take that fish.. Let's be sneaky."
+
+#. Key:	971293BF4BE4FE2F96DD74B2CCD7ABC1
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.2.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.2.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",971293BF4BE4FE2F96DD74B2CCD7ABC1"
+msgid "De l'eau ! Pas question d'y mettre un poil !"
+msgstr "Water! There's no way I put my fur in it!"
+
+#. Key:	97297423416E3E9BB5AFA18B073C91E7
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",97297423416E3E9BB5AFA18B073C91E7"
+msgid "Sphere"
+msgstr "Sphere"
+
+#. Key:	9782AE6D496A7C0D7F5FA68A0C77A923
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_151.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_151.Text
+msgctxt ",9782AE6D496A7C0D7F5FA68A0C77A923"
+msgid "Style Clouds"
+msgstr "Style Clouds"
+
+#. Key:	9AE905A5414DC269E120A090858F352C
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",9AE905A5414DC269E120A090858F352C"
+msgid "Midnight Moon"
+msgstr "Midnight Moon"
+
+#. Key:	9EB3571141A4EB92521A79BFC2B5CD37
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9EB3571141A4EB92521A79BFC2B5CD37"
+msgid "Super Heavy"
+msgstr "Super Heavy"
+
+#. Key:	A2251C704D6551D7A639D28B11DA41A6
+#. SourceLocation:	/Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/Persistent_Level.Persistent_Level_C:ExecuteUbergraph_Persistent_Level [Script Bytecode]
+msgctxt ",A2251C704D6551D7A639D28B11DA41A6"
+msgid "Tu as les plumes? Ok, Passe, mais fais patte blanche."
+msgstr "You have the feathers ? Ok, you can go then. But don't get in trouble."
+
+#. Key:	A3AADE7D4157BE42426B78AA74612CEB
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",A3AADE7D4157BE42426B78AA74612CEB"
+msgid "Rien...J'ai tellement faim..."
+msgstr "Nothing... I'm soooo hungry..."
+
+#. Key:	A466343047F59B0EA15CB18181289EDD
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_141.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_141.Text
+msgctxt ",A466343047F59B0EA15CB18181289EDD"
+msgid "100"
+msgstr "100"
+
+#. Key:	A5154F64441A19023155F0B9D9C456B4
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",A5154F64441A19023155F0B9D9C456B4"
+msgid " <img id=\"A\"/> sur la marque au sol pour sauter automatiquement"
+msgstr " <img id=\"A\"/>  on the mark on the ground to automatically jump"
+
+#. Key:	A677FC064FEC0E2F78DDFCA43D55ED0D
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.13.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.13.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",A677FC064FEC0E2F78DDFCA43D55ED0D"
+msgid "Je dois passer au-delà de cette palissade !"
+msgstr "I have to go further this fence!"
+
+#. Key:	A7E6D912416B75709BDBA0A9220815B2
+#. SourceLocation:	/Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",A7E6D912416B75709BDBA0A9220815B2"
+msgid "QUITTER"
+msgstr "QUIT"
+
+#. Key:	ABBFE088476E5B859F1F0080CC976343
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",ABBFE088476E5B859F1F0080CC976343"
+msgid "SunSet In Burn"
+msgstr "SunSet In Burn"
+
+#. Key:	AC3D85A74103FCEAA48CEC91E14ECE61
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",AC3D85A74103FCEAA48CEC91E14ECE61"
+msgid "Je crois que l'humain m'a abandonné !"
+msgstr "I think this human abandoned me!"
+
+#. Key:	AEF339464A0DD2FC2BD5D19647645FA0
+#. SourceLocation:	/Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.3.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+#: /Game/Hungry_Cat/UI/DT_EndTxt.DT_EndTxt.3.txtLigne_5_1224FF7D469ED0BA4427EDA252E1A98F
+msgctxt ",AEF339464A0DD2FC2BD5D19647645FA0"
+msgid "Viens on rentre"
+msgstr "Come, let's head back home."
+
+#. Key:	B2071A4248208863D38126B005399BB5
+#. SourceLocation:	/Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C:TextRender_GEN_VARIABLE.Text
+#: /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",B2071A4248208863D38126B005399BB5"
+msgid "     Sun Rise In The East"
+msgstr "     Sun Rise In The East"
+
+#. Key:	B748CA3D4F63342AA79A63988A883087
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",B748CA3D4F63342AA79A63988A883087"
+msgid "Clear"
+msgstr "Clear"
+
+#. Key:	BA14B30F4BA70E68D2378DB904091966
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",BA14B30F4BA70E68D2378DB904091966"
+msgid "Sun / Stars ( From Custom Mode / Time of Day  )"
+msgstr "Sun / Stars ( From Custom Mode / Time of Day  )"
+
+#. Key:	BAECFF124795EBB5372A818C60878438
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",BAECFF124795EBB5372A818C60878438"
+msgid "Joystick droit pour bouger la caméra"
+msgstr "Right joystick to move the camera"
+
+#. Key:	BEB8862246E06EE4407160A89B4CEF99
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_2.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",BEB8862246E06EE4407160A89B4CEF99"
+msgid "Randomize!!"
+msgstr "Randomize!!"
+
+#. Key:	BF1A2C91405E6BBDD43F52A24E73D973
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_5.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",BF1A2C91405E6BBDD43F52A24E73D973"
+msgid "3 X"
+msgstr "3 X"
+
+#. Key:	C348257244B6D29C69475F8B74C79885
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_7.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_7.Text
+msgctxt ",C348257244B6D29C69475F8B74C79885"
+msgid "Bottom View"
+msgstr "Bottom View"
+
+#. Key:	C896089F4E19F99528B207910A457D19
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.5.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.5.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",C896089F4E19F99528B207910A457D19"
+msgid "C'est quoi cet endroit ?"
+msgstr "Mmm... what is this place ?"
+
+#. Key:	C9824AAF49DBD62C311AD09B6CE5E36C
+#. SourceLocation:	/Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock.Text
+#: /Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",C9824AAF49DBD62C311AD09B6CE5E36C"
+msgid "OPTIONS"
+msgstr "SETTINGS"
+
+#. Key:	CA339544479B272776CD63B7EDC062C9
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.4.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.4.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",CA339544479B272776CD63B7EDC062C9"
+msgid "LT pour ramper"
+msgstr "LT to crawl"
+
+#. Key:	CAD0764E421E4668CDA3C0AB83D4FF79
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",CAD0764E421E4668CDA3C0AB83D4FF79"
+msgid "None"
+msgstr "None"
+
+#. Key:	CC5936AA4DFB49009962E09F6067DF92
+#. SourceLocation:	/Game/Hungry_Cat/Maitre/remyAnim_Enum.remyAnim_Enum.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Hungry_Cat/Maitre/remyAnim_Enum.remyAnim_Enum.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",CC5936AA4DFB49009962E09F6067DF92"
+msgid "Walk"
+msgstr "Walk"
+
+#. Key:	CFA2C3E14847D7C08D26CDAB9A0425D5
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Tuto.UMG_Tuto_C:WidgetTree.TutoTipsText.Text
+#: /Game/Hungry_Cat/UI/UMG_Tuto.UMG_Tuto_C:WidgetTree.TutoTipsText.Text
+msgctxt ",CFA2C3E14847D7C08D26CDAB9A0425D5"
+msgid "<img id=\"A\"/> pour donner un coup de patoune"
+msgstr "<img id=\"A\"/>  to poke with your paw"
+
+#. Key:	D040DBC74F4ECC6B3F5DAE96BF19FE16
+#. SourceLocation:	/Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Hungry_Cat/UI/StartMenu.StartMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",D040DBC74F4ECC6B3F5DAE96BF19FE16"
+msgid "CREDITS"
+msgstr "CREDITS"
+
+#. Key:	D04615404F1DA41B297BD8B439295A7B
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_6.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",D04615404F1DA41B297BD8B439295A7B"
+msgid "Top View"
+msgstr "Top View"
+
+#. Key:	D084BEC84E44E8CD29C6AC8EA99172AC
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",D084BEC84E44E8CD29C6AC8EA99172AC"
+msgid " <img id=\"B\"/> pour donner un coup de patoune"
+msgstr " <img id=\"B\"/>  to poke with your paw"
+
+#. Key:	D66E786C45A57501A423938D3134E079
+#. SourceLocation:	/Game/Hungry_Cat/VFX/FireflyParticle.FireflyParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+#: /Game/Hungry_Cat/VFX/FireflyParticle.FireflyParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_0.DisplayName
+msgctxt ",D66E786C45A57501A423938D3134E079"
+msgid "FireflyEmitter"
+msgstr "FireflyEmitter"
+
+#. Key:	D99420D84C3C3592957D8FA0A3641496
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Credits.UMG_Credits_C:WidgetTree.TextBlock_975.Text
+#: /Game/Hungry_Cat/UI/UMG_Credits.UMG_Credits_C:WidgetTree.TextBlock_975.Text
+msgctxt ",D99420D84C3C3592957D8FA0A3641496"
+msgid "RETOUR"
+msgstr "RETURN"
+
+#. Key:	DB41B8F54747E7DDE12CE6985B109646
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_152.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_152.Text
+msgctxt ",DB41B8F54747E7DDE12CE6985B109646"
+msgid "Mesh Type"
+msgstr "Mesh Type"
+
+#. Key:	DC6E1E5241A16D66EF9EB5853A93BAC0
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",DC6E1E5241A16D66EF9EB5853A93BAC0"
+msgid "Style DarkSouls"
+msgstr "Style DarkSouls"
+
+#. Key:	DD9B2332494FE38940930EAEE8D27171
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.10.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.10.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",DD9B2332494FE38940930EAEE8D27171"
+msgid "Il faut que j'explore le quartier pour trouver mon maître !"
+msgstr "I need to explorer the district to find the handler!"
+
+#. Key:	E1A3D2234F4F869D1B3B7B805FF4D9DB
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",E1A3D2234F4F869D1B3B7B805FF4D9DB"
+msgid "Y'a plus rien !"
+msgstr "There is nothing left !"
+
+#. Key:	E2E6F61F4E21E4ABDD5244B05A592CF7
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",E2E6F61F4E21E4ABDD5244B05A592CF7"
+msgid "Super Slight"
+msgstr "Super Slight"
+
+#. Key:	E485B53C497959D834C7088A70034595
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",E485B53C497959D834C7088A70034595"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	E680D543487A0F7BE636D5B261E8B697
+#. SourceLocation:	/Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_41.DisplayName
+#: /Game/Hungry_Cat/VFX/JumpPoint.JumpPoint:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_41.DisplayName
+msgctxt ",E680D543487A0F7BE636D5B261E8B697"
+msgid "VFX_Ruban"
+msgstr "VFX_Ruban"
+
+#. Key:	E6A762754E91BA085DB3DD9B44B27AD2
+#. SourceLocation:	/Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+#: /Game/Hungry_Cat/Maps/MaisonTuto.MaisonTuto_C:ExecuteUbergraph_MaisonTuto [Script Bytecode]
+msgctxt ",E6A762754E91BA085DB3DD9B44B27AD2"
+msgid "<img id=\"A\"/> pour sauter"
+msgstr "<img id=\"A\"/>  to jump"
+
+#. Key:	E8BEB9F34FACA60564E76EB7B010D89E
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",E8BEB9F34FACA60564E76EB7B010D89E"
+msgid "Style Death"
+msgstr "Style Death"
+
+#. Key:	EA0F2E5640603AF1AE9D429A1E04C1B8
+#. SourceLocation:	/Game/Hungry_Cat/VFX/BigDustParticle.BigDustParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+#: /Game/Hungry_Cat/VFX/BigDustParticle.BigDustParticle:SystemSpawnScript.SystemScriptSource.SystemScriptGraph.NiagaraNodeEmitter_1.DisplayName
+msgctxt ",EA0F2E5640603AF1AE9D429A1E04C1B8"
+msgid "Dust"
+msgstr "Dust"
+
+#. Key:	EB8BD2384609F7D6B46387810489F57B
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",EB8BD2384609F7D6B46387810489F57B"
+msgid "Sun / Stars + Moon ( From Custom Mode / Time of Day  ) "
+msgstr "Sun / Stars + Moon ( From Custom Mode / Time of Day  ) "
+
+#. Key:	EE365B66400D9391717B87AF95BF0C04
+#. SourceLocation:	/Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_6.Text
+#: /Game/Hungry_Cat/UI/UMG_Options.UMG_Options_C:WidgetTree.TextBlock_6.Text
+msgctxt ",EE365B66400D9391717B87AF95BF0C04"
+msgid "LANGUE :"
+msgstr "LANGUAGE :"
+
+#. Key:	EE929CA74C3FB0E6CDA90A92CA441A15
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_1.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",EE929CA74C3FB0E6CDA90A92CA441A15"
+msgid "Clouds Coverage Preset"
+msgstr "Clouds Coverage Preset"
+
+#. Key:	EF870E8F4E6302DABDE6668F94F60EF9
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.6.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.6.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",EF870E8F4E6302DABDE6668F94F60EF9"
+msgid "C'est ici que les humains viennent s'amuser ?"
+msgstr "Is that here humans come to have fun ?"
+
+#. Key:	EFBC334049E149DCAFF3519D82C34999
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_0.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",EFBC334049E149DCAFF3519D82C34999"
+msgid "Camera Pitch"
+msgstr "Camera Pitch"
+
+#. Key:	F08B62FD4B4FF24A5060BBB7B2DE6A7F
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.14.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.14.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",F08B62FD4B4FF24A5060BBB7B2DE6A7F"
+msgid "Mon maître est peut-être dans ce parc..."
+msgstr "The handler is maybe in this park..."
+
+#. Key:	F259193E4484E49E41738BBD06CFFF39
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F259193E4484E49E41738BBD06CFFF39"
+msgid "Hemisphere"
+msgstr "Hemisphere"
+
+#. Key:	F59F455F4E5194CEA0865097962C093D
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_10.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_10.Text
+msgctxt ",F59F455F4E5194CEA0865097962C093D"
+msgid "v2.3"
+msgstr "v2.3"
+
+#. Key:	F6F8CC434FB81ABF49E0B2BBD34F8B00
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F6F8CC434FB81ABF49E0B2BBD34F8B00"
+msgid "Middle"
+msgstr "Middle"
+
+#. Key:	F810EC6D4BB8DFE6A7963EBC0A1B7981
+#. SourceLocation:	/Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.16.Text_12_D8BA99164A8372125C9E6E8376A704B5
+#: /Game/Hungry_Cat/UI/Dialogue_DT.Dialogue_DT.16.Text_12_D8BA99164A8372125C9E6E8376A704B5
+msgctxt ",F810EC6D4BB8DFE6A7963EBC0A1B7981"
+msgid "Pas de maître en vue... Il va sentir mes patounes quand je vais le retrouver !"
+msgstr "No handler in sight... He is going to endure my paws when I will finally find him !"
+
+#. Key:	F96386D44BD830A88B8B81B252427442
+#. SourceLocation:	/Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_153.Text
+#: /Game/GoodSky/Source/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_153.Text
+msgctxt ",F96386D44BD830A88B8B81B252427442"
+msgid "Turn Table"
+msgstr "Turn Table"
+
+#. Key:	FB4CCABE410724A50A2EC29831EA8CC5
+#. SourceLocation:	/Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",FB4CCABE410724A50A2EC29831EA8CC5"
+msgid "SunRise ( From Time Of Day : 6 )"
+msgstr "SunRise ( From Time Of Day : 6 )"
+
